@@ -70,10 +70,14 @@ Included as a separate section at the end of the audiobook (or available as bonu
 
 ## Production Notes
 
-- **Narration**: Matt Rowe (author narration preferred for coaching voice authenticity)
-- **Distribution**: Audible, Apple Books, Google Play, direct download from landing page
+- **Narration**: Matt Rowe's cloned voice via ElevenLabs (existing account, voice already cloned)
+- **Voice improvement**: Record 10-15 min of Gravel Grit material in natural coaching tone, upload as additional training data
+- **Generation**: ElevenLabs Projects API (long-form), stability 0.5, similarity_boost 0.75
+- **Distribution**: Audible, Apple Books, Google Play, direct download from gravelgodcycling.com/deliver
 - **Companion**: Reference app/course for exercises mentioned in the book
 - **Length target**: 5.5-6.5 hours (sweet spot for Audible engagement)
+- **Guided exercises**: Also generated in Matt's voice via ElevenLabs (7 tracks, ~63 min total)
+- **Full production pipeline**: See `PRODUCTION.md`
 
 ## Why Audiobook Matters
 

@@ -2,7 +2,7 @@
 
 ## URL
 
-deliverathlete.com (or getdeliver.com, deliver.endurelabs.app)
+gravelgodcycling.com/deliver
 
 ## Purpose
 
