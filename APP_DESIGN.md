@@ -105,11 +105,15 @@ Every guided exercise from the course is available as an audio track in the app:
 
 ## Monetization Model
 
+See `PRICING.md` for full strategy and funnel logic.
+
 | Tier | Price | Access |
 |---|---|---|
 | **Free** | $0 | Module 1 (The Two Brains) complete, 1 guided exercise, streak tracking |
-| **Athlete** | $9.99/mo or $79.99/yr | Full course, all guided exercises, streak + circles, progress tracking |
-| **Pro** | $19.99/mo or $149.99/yr | Everything + coach mode, advanced analytics, race-day protocol builder |
+| **Athlete** | $6.99/mo or $49.99/yr | Full course, all guided exercises, streak + circles, progress tracking |
+| **Pro** | $14.99/mo or $99.99/yr | Everything + coach mode, advanced analytics, race-day protocol builder |
+
+The Bundle ($119 one-time) includes 3 months of Athlete tier — this is how most users enter the app.
 
 ## Technical Notes
 

@@ -34,9 +34,10 @@ Five progressive modules. Each built on one first principle. Each ending with a 
 
 | Format | Purpose | Model |
 |---|---|---|
-| **Course** | Deep learning — 6 modules, video + worksheets | Structured curriculum |
-| **App** | Daily practice — 5-min micro-sessions, streaks, spaced repetition | Duolingo engagement + Noom behavior change |
-| **Audiobook** | Passive absorption — listen while training or commuting | Companion narrative format |
+| **Audiobook** | Gateway — listen while training | $19.99 one-time |
+| **Course** | Deep learning — 6 modules, video + worksheets | $79 one-time |
+| **Bundle** | Hero product — audiobook + course + 3mo app | $119 one-time |
+| **App** | Daily practice — 5-min sessions, streaks, spaced repetition | Free / $6.99/mo / $14.99/mo |
 | **Landing Page** | Conversion — standalone page hitting all differentiators | Direct sales funnel |
 
 ## Framework: 6 Modules

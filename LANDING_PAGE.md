@@ -120,15 +120,21 @@ Matt Rowe has coached endurance athletes for 15 years across gravel, road cyclin
 
 **Headline:** Your Fitness Is Ready. Your Mind Isn't. Fix That.
 
-| | Free | Athlete | Pro |
-|---|---|---|---|
-| | $0 | $9.99/mo | $19.99/mo |
-| Module 1 (The Two Brains) | ✓ | ✓ | ✓ |
-| Full 6-module course | | ✓ | ✓ |
-| All guided exercises | | ✓ | ✓ |
-| App (streaks, circles, tracking) | | ✓ | ✓ |
-| Audiobook | | ✓ | ✓ |
-| Coach mode + race protocol builder | | | ✓ |
+**Three ways in:**
+
+| Audiobook | Course | Bundle (Best Value) |
+|---|---|---|
+| $19.99 | $79 | $119 |
+| ~6 hours of framework + stories | Full 30-lesson curriculum | Audiobook + Course + 3 months app |
+| Listen while you train | Video + worksheets + guided exercises | Save ~$40, build the daily habit |
+| [Buy Audiobook →] | [Buy Course →] | [Get the Bundle →] |
+
+**Daily practice app:**
+
+| Free | Athlete | Pro |
+|---|---|---|
+| $0 | $6.99/mo or $49.99/yr | $14.99/mo or $99.99/yr |
+| Module 1 complete | Full course + streaks + circles | Everything + coach mode + race protocol builder |
 
 **CTA:** Start Free → (email capture)
 
