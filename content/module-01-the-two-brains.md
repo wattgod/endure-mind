@@ -8,13 +8,13 @@
 
 ### HOOK
 
-You're on a start line. Maybe it's a gravel race — one of those 100-milers where they hand you a course map and say "good luck, there's no cell service after mile 30." Maybe it's a local crit. Maybe it's just a Tuesday group ride with that one guy who always attacks at the gas station like he's got something to prove.
+You're on a start line. Maybe it's a gravel race — one of those 100-milers where they hand you a course map and say "good luck, there's no cell service after mile 30." Maybe it's the start corral of a marathon you've trained six months for. Maybe it's a local Tuesday throwdown with that one person who always attacks like they've got something to prove.
 
 Doesn't matter. Here's what happens.
 
-Your heart rate is already at 130 and you haven't turned a pedal. Your hands are sweating inside your gloves. You're scanning the riders around you, doing mental math on who looks fast, who's got matching kit, who's already clipped in while you're still fumbling with your left shoe like it's your first day on a bike. Your brain is running a highlight reel — but not the good kind. It's playing every bad start you've ever had. The time you went too hard in the first mile and blew up so spectacularly that someone asked if you were OK at the first aid station. The time you crashed in the first corner because you grabbed too much front brake on loose gravel. The time you got dropped before the race even started hurting and spent 60 miles riding alone wondering why you bothered.
+Your heart rate is already at 130 and you haven't taken a step. Your hands are sweating. You're scanning the people around you, doing mental math on who looks fast, who's got matching kit, who looks calm while you're trying to remember how to tie your shoes. Your brain is running a highlight reel — but not the good kind. It's playing every bad start you've ever had. The time you went out too hard and blew up so spectacularly that someone asked if you were OK at the first aid station. The time you bonked at mile 60 and sat on the side of the road eating gas station candy like a defeated child. The time you got dropped before the race even started hurting and spent hours alone wondering why you bothered.
 
-None of this is useful. You know that. You KNOW your fitness is fine. You did the training plan. You hit your intervals. Your FTP is where it should be. You showed up prepared.
+None of this is useful. You know that. You KNOW your fitness is fine. You did the training plan. You hit your intervals. Your numbers are where they should be. You showed up prepared.
 
 And yet your brain is acting like you're about to get eaten by a bear.
 
@@ -50,13 +50,13 @@ Kahneman published *Thinking, Fast and Slow* in 2011, synthesizing decades of re
 
 Marshall and Paterson brought this framework into sport in *The Brave Athlete* in 2017. They mapped Kahneman's systems onto athletic performance and showed exactly how the limbic system — your amygdala, your hypothalamus, the deep emotional circuitry that sits beneath your cerebral cortex — hijacks athletic decision-making under pressure. They didn't just theorize about it. They worked with athletes across disciplines and documented the specific ways the chimp brain sabotages performance.
 
-Here's what happens physiologically. When the chimp detects a threat — and remember, "threat" to the chimp includes things like race starts, hard intervals, being passed, a hill that looks steeper than expected, or even just looking at your power meter and seeing a number you don't like — it triggers your amygdala. The amygdala is your brain's alarm system. It sends a signal to your hypothalamus, which activates your sympathetic nervous system. Heart rate goes up. Breathing gets shallow and rapid. Muscles tense — especially your jaw, shoulders, and hands. Blood flow redirects away from your gut and toward your limbs. Cortisol and adrenaline flood your system. Your pupils dilate. Your digestion shuts down.
+Here's what happens physiologically. When the chimp detects a threat — and remember, "threat" to the chimp includes things like race starts, hard intervals, being passed, a hill that looks steeper than expected, or even just glancing at your watch and seeing a number you don't like — it triggers your amygdala. The amygdala is your brain's alarm system. It sends a signal to your hypothalamus, which activates your sympathetic nervous system. Heart rate goes up. Breathing gets shallow and rapid. Muscles tense — especially your jaw, shoulders, and hands. Blood flow redirects away from your gut and toward your limbs. Cortisol and adrenaline flood your system. Your pupils dilate. Your digestion shuts down.
 
-This is the fight-or-flight response. And it's completely appropriate if a predator is chasing you. It's exactly what you want if you need to run away or fight for your life. But it is catastrophically unhelpful if you're trying to execute a pacing strategy at mile one of a 200K gravel race. You don't need dilated pupils and tense shoulders. You need controlled breathing and relaxed hands and a calm assessment of the effort ahead.
+This is the fight-or-flight response. And it's completely appropriate if a predator is chasing you. It's exactly what you want if you need to run away or fight for your life. But it is catastrophically unhelpful if you're trying to execute a pacing strategy at mile one of any endurance race. You don't need dilated pupils and tense shoulders. You need controlled breathing and relaxed hands and a calm assessment of the effort ahead.
 
 The prefrontal cortex — your coach, your System 2 — can override this response. But it takes time. Milliseconds more, but milliseconds matter when the chimp is already pulling the fire alarm. And critically, the prefrontal cortex requires energy. It fatigues. Research by Roy Baumeister on ego depletion, along with a 2009 study by Hagger and colleagues in *Motivation and Emotion*, demonstrated that self-control — which is essentially System 2 overriding System 1 — draws from a limited resource pool. Use it early, and you have less later.
 
-Think about what that means for a six-hour race. Every time you override a panicked thought in the first hour, every time you use willpower to stick to your pacing plan, every time you fight the urge to chase an attack — you're spending prefrontal resources. Resources you might desperately need in hour four when the race is actually being decided.
+Think about what that means for a six-hour race. Every time you override a panicked thought in the first hour, every time you use willpower to stick to your pacing plan, every time you fight the urge to surge with the group — you're spending prefrontal resources. Resources you might desperately need in hour four when the race is actually being decided.
 
 Which means the goal isn't just to fight the chimp in the moment. The goal is to train the chimp to fire less often in the first place. And when it does fire, to have a practiced, automatic response ready — one that doesn't require willpower because you've drilled it until it's a reflex.
 
@@ -92,17 +92,17 @@ Next up, we're going to talk about why your brain is actually the biggest limite
 
 ### HOOK
 
-Let me tell you about two rides I did in the same week. Same bike. Same course. Same fitness — seven days apart, nothing had changed physiologically. You don't gain or lose fitness in a week. My FTP hadn't budged. My resting heart rate was the same. My HRV was in the same range.
+Let me tell you about two sessions I did in the same week. Same course. Same fitness — seven days apart, nothing had changed physiologically. You don't gain or lose fitness in a week. My resting heart rate was the same. My HRV was in the same range.
 
-On Tuesday, I did a 90-minute threshold session on a route I know by heart. Three 20-minute intervals at 95% of FTP. I've done this workout dozens of times. And on this particular Tuesday, it felt like I was pedaling through concrete. RPE was a 9 from the first interval. My legs were screaming. My breathing felt labored way too early. My brain was begging me to stop — not at the end, but in the middle of the second interval. I finished the session, barely, shaking my head the whole cool-down. Sat in my driveway afterward convinced I was losing fitness. "Something's wrong. I'm overtrained. I need to rethink my whole plan."
+On Tuesday, I did a 90-minute threshold session on a route I know by heart. Three hard efforts at a pace I've held dozens of times. And on this particular Tuesday, it felt like I was moving through concrete. RPE was a 9 from the first effort. My legs were screaming. My breathing felt labored way too early. My brain was begging me to stop — not at the end, but in the middle of the second interval. I finished the session, barely, shaking my head the whole cool-down. Sat in my driveway afterward convinced I was losing fitness. "Something's wrong. I'm overtrained. I need to rethink my whole plan."
 
-On Saturday — four days later — I did a group ride. Hilly route, punchy climbs, fast guys. The ride included the exact same climb where I'd suffered on Tuesday. Same gradient, same duration. I rode that climb three watts HIGHER than my Tuesday effort — and it felt easier. RPE maybe a 7. I was chatting on the way up. Chatting! Four days earlier I was bargaining with God on the same climb at lower power.
+On Saturday — four days later — I went out with a group. Same route, same hills. The session included the exact same climb where I'd suffered on Tuesday. Same gradient, same duration. I went HARDER than my Tuesday effort — and it felt easier. RPE maybe a 7. I was talking on the way up. Talking! Four days earlier I was bargaining with God on the same climb at a lower intensity.
 
 Same legs. Same lungs. Same engine. Same week. What changed?
 
 Not my body. My brain.
 
-If you've been in endurance sport for more than a season, you've had this experience. You know this feeling. Same fitness, wildly different output. A race where you exceed your best training numbers by 5% and feel like you could keep going. A training day where you can't hit numbers you've been nailing for six weeks and you feel like you're dying. You blame sleep. You blame nutrition. You blame stress at work. You blame overtraining. And sometimes those things are real. But more often than you think — way more often — the variable that changed was between your ears.
+If you've been in endurance sport for more than a season, you've had this experience. You know this feeling. Same fitness, wildly different output. A race where you exceed your best training pace by 5% and feel like you could keep going. A training day where you can't hit targets you've been nailing for six weeks and you feel like you're dying. You blame sleep. You blame nutrition. You blame stress at work. You blame overtraining. And sometimes those things are real. But more often than you think — way more often — the variable that changed was between your ears.
 
 ### THE PRINCIPLE
 
@@ -112,7 +112,7 @@ I know how that sounds. It sounds like a motivational poster in a gym. "The only
 
 That's not what I'm saying. This isn't a platitude. This is what the last 25 years of exercise science has been converging on. Decades of research, hundreds of papers, some of the sharpest minds in sports science — all arriving at the same conclusion. The old model said your muscles hit a physical wall — lactic acid accumulation, glycogen depletion, oxygen delivery limitation, peripheral fatigue — and that wall is why you slow down. The new model says your brain shuts you down before you ever reach that wall. On purpose. To protect you.
 
-And it's conservative. Very conservative. Like a parent who won't let you ride your bike past the end of the block even though you're 35 years old. The point where you believe you've given everything? That's a signal from your brain, not a signal from your muscles. You have more. You almost always have more. The question is whether you can access it — and that question is psychological, not physiological.
+And it's conservative. Very conservative. Like a parent who won't let you cross the street even though you're 35 years old. The point where you believe you've given everything? That's a signal from your brain, not a signal from your muscles. You have more. You almost always have more. The question is whether you can access it — and that question is psychological, not physiological.
 
 ### THE SCIENCE
 
@@ -174,17 +174,17 @@ Next, we're going to talk about what happens when your brain is too amped up —
 
 ### HOOK
 
-I coached an athlete once — let's call him Jason — who was an absolute monster in training. Structured workouts, solo time trials, indoor trainer sessions with the fan blowing and the Netflix paused — the guy was a machine. Metronomic. Hit every number, every time. His FTP was legitimately impressive for a 45-year-old masters racer. If you looked at his TrainingPeaks, you'd think he was going to podium at every race he entered.
+I coached an athlete once — let's call him Jason — who was an absolute monster in training. Structured workouts, solo time trials, indoor sessions with the fan blowing and the Netflix paused — the guy was a machine. Metronomic. Hit every number, every time. His training data was legitimately impressive for a 45-year-old age-grouper. If you looked at his training log, you'd think he was going to podium at every race he entered.
 
-But races? Jason came apart. Not physically. Mentally. He'd show up to the start line vibrating. And I don't mean excited. I mean he looked like he'd had fourteen espressos. His legs were shaking before the gun went off. Heart rate already in Z3 just standing in the corral, holding his bike. His jaw was clenched. His shoulders were up by his ears. And then the gun would go off and he'd sprint — literally sprint — into the first mile of a six-hour gravel race. Like he was trying to win the hole shot at a mountain bike race. He'd go out at 120% of threshold, convinced he felt fine, and blow up spectacularly within the first 30-45 minutes. Every. Single. Time.
+But races? Jason came apart. Not physically. Mentally. He'd show up to the start line vibrating. And I don't mean excited. I mean he looked like he'd had fourteen espressos. His legs were shaking before the gun went off. Heart rate already in zone 3 just standing in the corral. His jaw was clenched. His shoulders were up by his ears. And then the gun would go off and he'd sprint — literally sprint — into the first mile of a six-hour race. Like the finish line was 400 meters away, not 100 miles. He'd go out at 120% of his sustainable pace, convinced he felt fine, and blow up spectacularly within the first 30-45 minutes. Every. Single. Time.
 
-We tried pacing strategies. "Jason, start at 85%, I don't care who passes you." Didn't work — he couldn't execute because his brain was screaming GO GO GO from the gun. We tried target wattages taped to his stem. Same problem — his perceived effort was so distorted by adrenaline that what felt "easy" was actually threshold. The number on his stem said 220 watts, but 220 felt like recovery, so he was pushing 280 without realizing it.
+We tried pacing strategies. "Jason, start at 85%, I don't care who passes you." Didn't work — he couldn't execute because his brain was screaming GO GO GO from the gun. We tried target heart rates. Same problem — his perceived effort was so distorted by adrenaline that what felt "easy" was actually threshold. His watch said hold back, but everything felt effortless, so he'd hammer without realizing it.
 
 Jason's problem wasn't fitness. It wasn't pacing knowledge. It wasn't tactics. Jason was too aroused. And no, not like that — get your mind out of the gutter.
 
-I coached another athlete — call her Sarah — who had the opposite problem. Sarah was calm. Too calm. She'd show up to races like she was going to brunch. Relaxed, chatting with people, no urgency at all. She'd roll off the line like it was a coffee ride, never respond to early moves, let gaps open because she didn't feel any urgency to close them, and then realize 40 minutes in that the front group was a minute up the road and she'd missed the split. She'd spend the rest of the race riding well below her ability because there was no one to race against.
+I coached another athlete — call her Sarah — who had the opposite problem. Sarah was calm. Too calm. She'd show up to races like she was going to brunch. Relaxed, chatting with people, no urgency at all. She'd ease off the line like it was a recovery day, never respond to early surges, let gaps open because she didn't feel any urgency to close them, and then realize 40 minutes in that the front group was a minute up the road and she'd missed the split. She'd spend the rest of the race performing well below her ability because there was no one to push against.
 
-Sarah's problem wasn't fitness. Her training numbers were excellent. She was under-aroused. Not activated enough for the demands of the moment. She couldn't access the intensity her body was capable of because her nervous system was still in "Sunday ride" mode.
+Sarah's problem wasn't fitness. Her training data was excellent. She was under-aroused. Not activated enough for the demands of the moment. She couldn't access the intensity her body was capable of because her nervous system was still in "easy day" mode.
 
 Same sport. Opposite problems. Both mental.
 
@@ -202,11 +202,11 @@ This is the Yerkes-Dodson Law, and it's one of those rare findings in psychology
 
 Now here's the nuance that most people miss, and this is important. The curve isn't the same for everyone. And it's not the same for every task within a sport.
 
-Fine motor tasks — think cornering at speed on loose gravel, threading singletrack on a mountain bike, handling a bike in a tight peloton — have a narrower optimal zone and it sits lower on the arousal scale. You need precision. You need relaxed hands and smooth movements. Being jacked up destroys fine motor control.
+Fine motor tasks — think navigating a technical descent, threading through a pack, handling tricky footing on a rooty trail — have a narrower optimal zone and it sits lower on the arousal scale. You need precision. You need relaxed hands and smooth movements. Being jacked up destroys fine motor control.
 
-Gross motor, high-output tasks — an all-out sprint for a town sign, an attack on a climb, the final kick of a running race — have a wider optimal zone and it sits higher on the scale. You can tolerate more adrenaline when the task is "go as hard as possible."
+Gross motor, high-output tasks — an all-out sprint to the line, a surge on a climb, the final kick of a race — have a wider optimal zone and it sits higher on the scale. You can tolerate more adrenaline when the task is "go as hard as possible."
 
-Endurance tasks — riding for six hours, running a marathon, skiing 50K — generally need a moderate-to-low arousal level. You're not sprinting. You're managing effort over time. You need to be alert and focused but not amped. Calm intensity, not frantic energy.
+Endurance tasks — racing for six hours, running a marathon, skiing 50K — generally need a moderate-to-low arousal level. You're not sprinting. You're managing effort over time. You need to be alert and focused but not amped. Calm intensity, not frantic energy.
 
 Dr. Justin Ross, who teaches sport psychology for endurance athletes, makes this point emphatically in his work on arousal regulation: most endurance athletes come to competition already too far to the right on the curve. Race day pushes them past their optimal zone before the gun even goes off. The nerves, the crowd, the adrenaline, the stakes — all of it cranks the dial higher than where it needs to be. For most of you listening to this, the skill you need on race day isn't getting more fired up. It's calming down.
 
@@ -254,17 +254,17 @@ Mile 80 of a 130-mile gravel race. Southern Kansas. The kind of race where the c
 
 It's June. It's 95 degrees. The road is crushed limestone that's been baking in the sun for eight hours. Everything is beige — the road, the fields, the sky. You can't tell where the road ends and the horizon begins.
 
-I'm in a group of about six riders. We've been together since mile 40, trading pulls, nobody talking much, just the crunch of gravel and the click of drivetrains. The kind of silent cooperation that only happens when everyone is suffering equally and nobody has the energy to pretend otherwise.
+I'm in a group of about six. We've been together since mile 40, sharing the work, nobody talking much, just the crunch of gravel and the sound of breathing. The kind of silent cooperation that only happens when everyone is suffering equally and nobody has the energy to pretend otherwise.
 
 And then the road tilts up. Not a big climb. Maybe 8 minutes at 6%. On fresh legs, in training, it's the kind of thing you wouldn't even remember. But at mile 80, in the heat, with 50 miles still to go? It's a selection point. Everybody knows it.
 
 The group fractures immediately. Two guys stand up and go. Two guys sit up and start drifting back. It's me and one other rider, and every fiber of my body is telling me to chase the front two. The chimp is SCREAMING. "They're getting away. The race is slipping. You're going to finish alone. GO. NOW." My heart rate spikes ten beats in seconds — not from the climb, from the panic. My breathing goes ragged and shallow. My grip tightens on the bars. I'm cross-eyed with effort and adrenaline and the gap is opening and I can feel the race slipping away and —
 
-I closed my eyes for one pedal stroke. Just one revolution of the cranks. And I breathed. In through my nose for a count of six. Hold for two. Out through my mouth for a count of seven.
+I closed my eyes for one stride. Just one second. And I breathed. In through my nose for a count of six. Hold for two. Out through my mouth for a count of seven.
 
 One breath. Fifteen seconds.
 
-When I opened my eyes, the gap to the front two hadn't changed much. But I had. My heart rate dropped five beats. My breathing smoothed out. My grip loosened on the bars. My shoulders dropped away from my ears. And — this is the important part — my brain shifted. The chimp's screaming faded and the coach's voice came through: "Hold your tempo. They went too hard. Let them come back to you."
+When I opened my eyes, the gap to the front two hadn't changed much. But I had. My heart rate dropped five beats. My breathing smoothed out. My grip loosened. My shoulders dropped away from my ears. And — this is the important part — my brain shifted. The chimp's screaming faded and the coach's voice came through: "Hold your tempo. They went too hard. Let them come back to you."
 
 Which they did. By the top of the climb, the two guys who attacked were cooked. They'd burned a match they couldn't afford. I rolled past them at a sustainable pace, and they didn't have an answer.
 
@@ -318,11 +318,11 @@ Then exhale through your mouth for a slow count of 7. Pursed lips, like you're b
 
 That's one cycle. 15 seconds. Do 5 to 10 cycles in a row. That's about 75 to 150 seconds — roughly two minutes. Do this daily for a week.
 
-**Phase two: test under mild stress.** After your practice week, use the 6-2-7 before your next hard training session. Not during an easy ride — before a hard one. Right before you start your first interval, when your heart rate is already climbing and the chimp is telling you this is going to hurt — do three full cycles of 6-2-7. About 45 seconds total.
+**Phase two: test under mild stress.** After your practice week, use the 6-2-7 before your next hard training session. Not during an easy session — before a hard one. Right before you start your first interval, when your heart rate is already climbing and the chimp is telling you this is going to hurt — do three full cycles of 6-2-7. About 45 seconds total.
 
-Notice what happens. Your heart rate will drop. Your breathing pattern will smooth out. The first interval will feel more controlled. Not easier — the watts are the same, the effort is the same. But more controlled. More deliberate. More like you're choosing to do it rather than being dragged through it. That's the professor taking over from the chimp.
+Notice what happens. Your heart rate will drop. Your breathing pattern will smooth out. The first interval will feel more controlled. Not easier — the effort is the same, the pace is the same. But more controlled. More deliberate. More like you're choosing to do it rather than being dragged through it. That's the professor taking over from the chimp.
 
-**Phase three: deploy in competition.** Once you've practiced enough that the 6-2-7 is automatic — you don't have to think about the counts anymore, the timing is in your body — start using it in real situations. Pre-race, standing on the start line. Mid-race, when something goes wrong — a mechanical, a bonk, a gap you can't close. After a setback, when the chimp is screaming that the race is over. On a descent that scares you. At the start of a climb that intimidates you.
+**Phase three: deploy in competition.** Once you've practiced enough that the 6-2-7 is automatic — you don't have to think about the counts anymore, the timing is in your body — start using it in real situations. Pre-race, standing on the start line. Mid-race, when something goes wrong — a mechanical, a bonk, a gap you can't close. After a setback, when the chimp is screaming that the race is over. At the bottom of a hill that intimidates you. At the start of the hardest part of the course.
 
 The 6-2-7 is your reset button. It's always available. It costs nothing. It requires no equipment. It works in 15 seconds. But — and this is critical — it only works if you've practiced it. An untrained 6-2-7 under genuine race stress will just be you taking one awkward deep breath and immediately going back to panic. The body won't know what to do with it. A trained 6-2-7 — one that's been drilled for a week in low-stress settings, then tested in moderate-stress training — is a weapon. The body knows the pattern. The nervous system responds automatically. Fifteen seconds to shift from reactive to deliberate.
 
@@ -340,21 +340,21 @@ Next up: the last piece of Module 1. We're going to talk about where you point y
 
 ### HOOK
 
-I want you to think about the last time you were on a long ride or run and something went wrong. Not a crash. Not a flat tire. Something smaller. More insidious. Maybe your knee started aching at mile 40. Not sharp pain — just a dull, nagging presence that wasn't there at mile 30. Or maybe your power numbers were 10 watts lower than expected and you couldn't figure out why. Or maybe the group you'd been riding with started to pull away, one rider at a time, and you watched the gap go from 10 meters to 20 to 50.
+I want you to think about the last time you were on a long ride or run and something went wrong. Not a crash. Not a flat tire. Something smaller. More insidious. Maybe your knee started aching at mile 40. Not sharp pain — just a dull, nagging presence that wasn't there at mile 30. Or maybe your pace was slower than expected and you couldn't figure out why. Or maybe the group you'd been with started to pull away, one person at a time, and you watched the gap go from 10 meters to 20 to 50.
 
 What happened to your attention?
 
-I'll tell you what happened, because it happens to every athlete who hasn't trained this skill. Your attention locked on. Like a searchlight finding an escaped prisoner. Like a dog fixating on a squirrel. Your entire conscious awareness narrowed to that one thing — the knee, the numbers, the gap — and you could not stop thinking about it. You tried to think about something else. It came back. You tried to focus on your pedal stroke. The knee pain interrupted. You tried to enjoy the scenery. The gap to the group pulled you back.
+I'll tell you what happened, because it happens to every athlete who hasn't trained this skill. Your attention locked on. Like a searchlight finding an escaped prisoner. Like a dog fixating on a squirrel. Your entire conscious awareness narrowed to that one thing — the knee, the numbers, the gap — and you could not stop thinking about it. You tried to think about something else. It came back. You tried to focus on your form. The knee pain interrupted. You tried to enjoy the scenery. The gap to the group pulled you back.
 
-And the more you focused on it, the worse it got. The knee hurt more. The numbers looked more alarming. The gap felt more catastrophic. A 10-watt deficit that might have been meaningless became evidence of overtraining. A 50-meter gap that you could have closed in 30 seconds became proof that you didn't belong in the group. Everything else — the beautiful road, your solid nutrition, your comfortable position, the fact that you were having an objectively good day up until that point — disappeared. Your world shrank to one data point, and that data point was telling you a story about failure.
+And the more you focused on it, the worse it got. The knee hurt more. The numbers looked more alarming. The gap felt more catastrophic. A slightly off pace that might have been meaningless became evidence of overtraining. A 50-meter gap that you could have closed in 30 seconds became proof that you didn't belong in the group. Everything else — the beautiful road, your solid nutrition, your comfortable position, the fact that you were having an objectively good day up until that point — disappeared. Your world shrank to one data point, and that data point was telling you a story about failure.
 
 Your attention became a prison.
 
-Now think about a different day. One of those magic rides. Everything clicking. You're not monitoring anything specific, but somehow you're aware of everything. You can feel the wind shifting before you see the trees move. You sense the grade changes through your pedals before you see the road tilt. Your legs have a rhythm that doesn't require management — you're not thinking about cadence, you just have the right cadence. Your breathing is deep and automatic. You notice a hawk riding a thermal above a field and you appreciate it without losing the wheel in front of you. You look down at your computer and realize an hour has gone by and you forgot to eat because you were so absorbed in the experience of riding.
+Now think about a different day. One of those magic sessions. Everything clicking. You're not monitoring anything specific, but somehow you're aware of everything. You can feel the wind shifting before you see the trees move. You sense the grade changes through your feet before you see the road tilt. Your legs have a rhythm that doesn't require management — you're not thinking about turnover, you just have the right rhythm. Your breathing is deep and automatic. You notice a hawk riding a thermal above a field and you appreciate it without losing your pace. You look down at your watch and realize an hour has gone by and you forgot to eat because you were so absorbed in the experience of moving.
 
 Same spotlight. Same brain. Totally different mode.
 
-The difference between those two rides wasn't fitness. It was attention.
+The difference between those two days wasn't fitness. It was attention.
 
 ### THE PRINCIPLE
 
@@ -378,7 +378,7 @@ Broad-external: scanning the race field, reading the terrain ahead, assessing co
 
 Broad-internal: monitoring your overall body state. Not fixating on any one thing, but doing a general check-in. How do I feel overall? Am I hydrating? Is my effort sustainable? Am I relaxed? This is self-management awareness.
 
-Narrow-external: focusing on a specific technical task — your line through a corner, your cadence on a specific climb, the wheel in front of you, your hand position on the drops. This is execution focus.
+Narrow-external: focusing on a specific technical task — your line through a corner, your turnover on a climb, the person in front of you, your arm position. This is execution focus.
 
 Narrow-internal: zeroing in on a specific body sensation — your breathing rhythm, your heart rate, a specific muscle group, a pain point. This is monitoring focus.
 
@@ -392,17 +392,17 @@ In 2009, researchers Kaufman, Glass, and Arnkoff at the Catholic University of A
 
 Dr. Justin Ross, who teaches mindfulness to athletes, breaks it down into five facets from the research literature. Observing: noticing internal and external experiences. Describing: labeling experiences with words rather than reacting to them. Acting with awareness: being fully engaged in the present task rather than operating on autopilot. Non-judging: experiencing thoughts and sensations without evaluating them as good or bad. Non-reacting: allowing thoughts and feelings to come and go without being compelled to act on them.
 
-For endurance athletes, the two most powerful facets are observing and non-judging. Observing gives you the raw data — "my legs hurt, the gap is 50 meters, my power is dropping." Non-judging prevents the chimp from adding a catastrophic narrative to that data. The pain just IS. The gap just IS. The power drop just IS. None of it means anything about you as a person or about the outcome of the race until you decide it does.
+For endurance athletes, the two most powerful facets are observing and non-judging. Observing gives you the raw data — "my legs hurt, the gap is 50 meters, my pace is dropping." Non-judging prevents the chimp from adding a catastrophic narrative to that data. The pain just IS. The gap just IS. The power drop just IS. None of it means anything about you as a person or about the outcome of the race until you decide it does.
 
 There's another layer of research here that's directly relevant. Work on association versus dissociation in endurance athletes — originally by Morgan and Pollock in 1977, then significantly updated by Brick, MacIntyre, and Campbell in 2014 — shows that elite endurance athletes don't simply "associate" with their body or "dissociate" from pain. They do both. Actively. Strategically.
 
 At high intensity — during a race-defining climb, a hard interval, a sprint finish — elite athletes associate. They tune IN to their body. They monitor breathing, leg sensation, heart rate, and pacing with laser focus. This is narrow-internal attention, deployed on purpose, because at high intensity you need that data to manage effort and prevent blowing up.
 
-At moderate intensity — during the long middle miles of a gravel race, the steady-state portion of a marathon, the meat of a long training ride — elite athletes dissociate. They let their minds wander. They notice the scenery. They think about dinner. They drift. This isn't laziness. It's strategic conservation of mental energy. Maintaining tight internal focus for six hours would be exhausting. So they save it for when they need it.
+At moderate intensity — during the long middle miles of a race, the steady-state portion of a marathon, the meat of a long training session — elite athletes dissociate. They let their minds wander. They notice the scenery. They think about dinner. They drift. This isn't laziness. It's strategic conservation of mental energy. Maintaining tight internal focus for six hours would be exhausting. So they save it for when they need it.
 
 The key word in both cases is "actively." They're choosing where the spotlight goes. They're not stuck. They shift modes based on what the moment demands. And when the moment changes — when the road tilts up, when a competitor attacks, when something goes wrong — they can snap the spotlight back to where it needs to be. Instantly. On command.
 
-When your spotlight gets stuck — fixated on pain, obsessively checking your power meter, locked onto a competitor's wheel, spiraling on a negative thought — that's called attentional narrowing. It's a stress response. The chimp grabs the spotlight and won't let go. And it creates a vicious cycle: the more you focus on the thing that's going wrong, the more threatening it seems, which makes the chimp grip tighter, which narrows your attention further.
+When your spotlight gets stuck — fixated on pain, obsessively checking your watch, locked onto a competitor, spiraling on a negative thought — that's called attentional narrowing. It's a stress response. The chimp grabs the spotlight and won't let go. And it creates a vicious cycle: the more you focus on the thing that's going wrong, the more threatening it seems, which makes the chimp grip tighter, which narrows your attention further.
 
 The only way out is to deliberately redirect. To physically move the spotlight to a different quadrant. And you can do that. But only if you've practiced.
 
@@ -414,9 +414,9 @@ Every 10 minutes, I want you to deliberately shift your attention through three 
 
 **Mode 1: Body Scan (Narrow-Internal).** Spend about a minute scanning your body from head to toe. Start at the top. How does your face feel? Is your jaw clenched? Your shoulders — are they tensed up by your ears or dropped and relaxed? Your hands — death grip or light touch? Move down. How does your back feel? Your hips? Your quads — fresh or loaded? Your knees? Your feet — are they numb? Hot spots? Just notice. Don't fix anything. Don't judge anything. If your shoulders are tense, don't force them down — just observe that they're tense. Describe what you find, internally, in neutral language. "My left hip flexor is tight. My hands are relaxed. My breathing is deep and rhythmic. My right knee has a slight ache."
 
-**Mode 2: Surroundings (Broad-External).** Lift your head. Widen your gaze. What do you see? Not the road right in front of you — the whole panorama. The sky. The trees. The buildings. Other riders or runners. What do you hear? Wind? Birds? Cars? Your own drivetrain? What's the temperature on your skin? What does the air smell like? Broaden your awareness as wide as it can go. Take in the entire scene simultaneously. Let your focus go soft — not fixed on any one thing, but aware of everything. This is the floodlight mode. It's the opposite of the laser beam you were using in Mode 1.
+**Mode 2: Surroundings (Broad-External).** Lift your head. Widen your gaze. What do you see? Not the ground right in front of you — the whole panorama. The sky. The trees. The buildings. Other people out here with you. What do you hear? Wind? Birds? Cars? Your own breathing? What's the temperature on your skin? What does the air smell like? Broaden your awareness as wide as it can go. Take in the entire scene simultaneously. Let your focus go soft — not fixed on any one thing, but aware of everything. This is the floodlight mode. It's the opposite of the laser beam you were using in Mode 1.
 
-**Mode 3: Technique (Narrow-External).** Pick one technical element of your movement and focus on it exclusively for about a minute. If you're on the bike: your pedal stroke. Are you pulling through the bottom? Is your cadence even or choppy? If you're running: your foot strike. Where is it landing relative to your center of mass? If you're skiing: your pole plant timing. Whatever your sport, zoom in on the execution of one specific skill. Don't evaluate whether it's good or bad — just observe the mechanics. Watch yourself move from inside your body.
+**Mode 3: Technique (Narrow-External).** Pick one technical element of your movement and focus on it exclusively for about a minute. If you're cycling: your pedal stroke — is it smooth or choppy? If you're running: your foot strike — where is it landing relative to your center of mass? If you're skiing: your pole plant timing and weight transfer. Whatever your sport, zoom in on the execution of one specific skill. Don't evaluate whether it's good or bad — just observe the mechanics. Watch yourself move from inside your body.
 
 That's one cycle. Body scan, surroundings, technique. About three minutes total per cycle. Do it every 10 minutes throughout your long session.
 
