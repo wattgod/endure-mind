@@ -1,12 +1,12 @@
-# The Deciding Mile
+# Deliver
 
-**Mental Skills for the Moment Every Endurance Race Is Won or Lost**
+**Unlock your brain and get out of your own way.**
 
 A first-principles sport psychology framework for endurance athletes — delivered as a course, an app, and an audiobook.
 
 ## What This Is
 
-The Deciding Mile consolidates perspectives from 4+ sport psychology authors, 15+ hours of academic content, and 6 years of field-tested coaching into a single coherent framework. It starts from clearly explained first principles, provides actionable tools at every step, and is designed to be consumed — not just purchased.
+Deliver consolidates perspectives from 4+ sport psychology authors, 15+ hours of academic content, and 6 years of field-tested coaching into a single coherent framework. It starts from clearly explained first principles, provides actionable tools at every step, and is designed to be consumed — not just purchased.
 
 ## The Problem
 
@@ -19,7 +19,7 @@ Athletes spend thousands of hours building fitness but zero hours building the m
 
 ## The Solution
 
-Five progressive modules. Each built on one first principle. Each ending with a tool you practice — not just learn. Delivered in a format that creates behavior change, not just knowledge.
+Six progressive modules. Each built on one first principle. Each ending with a tool you practice — not just learn. Delivered in a format that creates behavior change, not just knowledge.
 
 ## Differentiators
 

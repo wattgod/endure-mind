@@ -1,4 +1,4 @@
-# The Deciding Mile — Full Course Outline
+# Deliver — Full Course Outline
 
 ## Framework Architecture
 
@@ -214,7 +214,7 @@ The final module (Race Day) is the synthesis: assembling all tools into a compet
 - Performance statement deployment for first-hour anxiety
 - **Tool: First-Hour Focus Script** — Pre-written self-talk for the opening phase: "Settle. Execute. The race is long."
 
-### Lesson 5.4: The Deciding Mile
+### Lesson 5.4: Deliver
 - The moment in every endurance race where the decision is made
 - This is clutch territory, not flow — maximum deliberate effort
 - Segmentation: break the remainder into sub-goals (next aid station, next mile, next minute)

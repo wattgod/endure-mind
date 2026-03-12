@@ -1,8 +1,8 @@
-# The Deciding Mile — Landing Page Spec
+# Deliver — Landing Page Spec
 
 ## URL
 
-decidingmile.com (or thedecidingmile.com)
+deliverathlete.com (or getdeliver.com, deliver.endurelabs.app)
 
 ## Purpose
 
@@ -22,11 +22,11 @@ Standalone conversion page. One product suite, three formats. Direct sales + ema
 ### 1. HERO
 
 **Headline:**
-# Every Endurance Race Has a Deciding Mile.
-# Most Athletes Aren't Ready for It.
+# Deliver.
+# Unlock your brain and get out of your own way.
 
 **Subhead:**
-The first-principles mental training framework for cyclists, runners, and triathletes who are tired of collapsing when it matters most.
+The first-principles mental training framework for endurance athletes who are tired of racing below their fitness.
 
 **CTA:** Start Training Your Mind →
 

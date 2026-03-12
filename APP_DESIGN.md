@@ -1,4 +1,4 @@
-# The Deciding Mile — App Design
+# Deliver — App Design
 
 ## Philosophy
 
@@ -10,7 +10,7 @@ Most sport psych courses fail because athletes consume the content and never pra
 
 ### Duolingo Mechanics (Adapted)
 
-| Duolingo | The Deciding Mile | Purpose |
+| Duolingo | Deliver | Purpose |
 |---|---|---|
 | Daily streak | **Mental Streak** | Loss aversion — protecting your streak drives daily engagement |
 | XP points | **Grit Points (GP)** | Variable reward for completing sessions, exercises, and reflections |
@@ -22,7 +22,7 @@ Most sport psych courses fail because athletes consume the content and never pra
 
 ### Noom Mechanics (Adapted)
 
-| Noom | The Deciding Mile | Purpose |
+| Noom | Deliver | Purpose |
 |---|---|---|
 | CBT micro-lessons | **First Principle Cards** | 2-3 min concept explanation, one idea at a time |
 | Daily logging | **Session Debrief** | Post-training RPE + mental state + tool deployment log |
