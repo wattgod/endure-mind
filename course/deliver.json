@@ -1,0 +1,275 @@
+{
+  "course": {
+    "title": "Deliver — Mental Performance for Endurance Athletes",
+    "slug": "deliver",
+    "description": "Unlock your brain and get out of your own way. 6 modules, 30 lessons of evidence-based sport psychology tools for endurance athletes.",
+    "version": "1.0.0",
+    "author": "Endure Labs",
+    "modules": [
+      {
+        "title": "The Two Brains",
+        "slug": "the-two-brains",
+        "lessons": [
+          {
+            "title": "The Chimp and The Coach",
+            "slug": "the-chimp-and-the-coach",
+            "description": "Your brain has two systems — one reacts, one decides. Performance lives in the gap between them.",
+            "blocks": []
+          },
+          {
+            "title": "Your Brain Is the Limiter",
+            "slug": "your-brain-is-the-limiter",
+            "description": "Your brain throttles output to protect you. The point where you think you've given everything is a signal, not a wall.",
+            "blocks": []
+          },
+          {
+            "title": "The Arousal Dial",
+            "slug": "the-arousal-dial",
+            "description": "Your best performance lives in a specific zone on the arousal dial — and that zone is different for every athlete.",
+            "blocks": []
+          },
+          {
+            "title": "The 6-2-7",
+            "slug": "the-6-2-7",
+            "description": "Diaphragmatic breathing is the fastest bridge from the reactive brain to the deliberate brain.",
+            "blocks": []
+          },
+          {
+            "title": "Attention — The Spotlight You Control",
+            "slug": "attention-the-spotlight-you-control",
+            "description": "Your attention is a spotlight — broad or narrow, internal or external. You control where it points.",
+            "blocks": []
+          },
+          {
+            "title": "Module 1 Quiz",
+            "slug": "module-1-quiz",
+            "description": "Test your understanding of the two-brain system, arousal, breathing, and attention.",
+            "blocks": []
+          }
+        ]
+      },
+      {
+        "title": "The Stories You Tell Yourself",
+        "slug": "the-stories-you-tell-yourself",
+        "lessons": [
+          {
+            "title": "The Identity Tree",
+            "slug": "the-identity-tree",
+            "description": "You will never outperform your self-concept. The words after 'I am' set the ceiling.",
+            "blocks": []
+          },
+          {
+            "title": "Where Confidence Actually Comes From",
+            "slug": "where-confidence-actually-comes-from",
+            "description": "Confidence isn't a personality trait. It's a judgment based on available evidence.",
+            "blocks": []
+          },
+          {
+            "title": "The Perfectionism Trap",
+            "slug": "the-perfectionism-trap",
+            "description": "High standards + self-compassion = growth. High standards + self-punishment = burnout.",
+            "blocks": []
+          },
+          {
+            "title": "Performance Statements",
+            "slug": "performance-statements",
+            "description": "You can't control your thoughts. But you can answer them.",
+            "blocks": []
+          },
+          {
+            "title": "The Athletic Schema Statement",
+            "slug": "the-athletic-schema-statement",
+            "description": "Your self-schema is the thoughts and feelings you have about yourself as an athlete. Choose it, or it chooses you.",
+            "blocks": []
+          },
+          {
+            "title": "Module 2 Quiz",
+            "slug": "module-2-quiz",
+            "description": "Test your understanding of identity, confidence, perfectionism, and self-talk.",
+            "blocks": []
+          }
+        ]
+      },
+      {
+        "title": "Seeing Before Doing",
+        "slug": "seeing-before-doing",
+        "lessons": [
+          {
+            "title": "Visualization Is Not Daydreaming",
+            "slug": "visualization-is-not-daydreaming",
+            "description": "Mental imagery is a full-sensory cognitive rehearsal with decades of research behind it.",
+            "blocks": []
+          },
+          {
+            "title": "The Personal Highlight Reel",
+            "slug": "the-personal-highlight-reel",
+            "description": "The act of visualizing contains the ergogenic value — watching video of yourself is not enough.",
+            "blocks": []
+          },
+          {
+            "title": "Disaster Planning",
+            "slug": "disaster-planning",
+            "description": "If-Then plans convert coping decisions into pre-programmed responses.",
+            "blocks": []
+          },
+          {
+            "title": "Self-Talk — The Soundtrack",
+            "slug": "self-talk-the-soundtrack",
+            "description": "System 1 self-talk is reactive. System 2 self-talk is planned. You can choose which runs.",
+            "blocks": []
+          },
+          {
+            "title": "Detachment in Action",
+            "slug": "detachment-in-action",
+            "description": "Mindfulness: paying attention, on purpose, in the present moment, nonjudgmentally.",
+            "blocks": []
+          },
+          {
+            "title": "Module 3 Quiz",
+            "slug": "module-3-quiz",
+            "description": "Test your understanding of visualization, highlight reels, disaster planning, self-talk, and mindfulness.",
+            "blocks": []
+          }
+        ]
+      },
+      {
+        "title": "The Zone and The Red Line",
+        "slug": "the-zone-and-the-red-line",
+        "lessons": [
+          {
+            "title": "What Flow Actually Is",
+            "slug": "what-flow-actually-is",
+            "description": "Flow is not about trying harder. It's what happens when the trying stops and the doing takes over.",
+            "blocks": []
+          },
+          {
+            "title": "Clutch vs. Flow",
+            "slug": "clutch-vs-flow",
+            "description": "Flow is effortless. Clutch is deliberate. The deciding mile is usually clutch.",
+            "blocks": []
+          },
+          {
+            "title": "Motivation — The Engine Under Everything",
+            "slug": "motivation-the-engine-under-everything",
+            "description": "Intrinsic motivation is the engine. When it runs dry, no external fuel replaces it.",
+            "blocks": []
+          },
+          {
+            "title": "The Data Trap",
+            "slug": "the-data-trap",
+            "description": "When wearables override body signals, you lose the ability to read yourself.",
+            "blocks": []
+          },
+          {
+            "title": "Training Monotony and The Unmotivated Day",
+            "slug": "training-monotony-and-the-unmotivated-day",
+            "description": "Mental fatigue is neurological, not a character flaw.",
+            "blocks": []
+          },
+          {
+            "title": "Module 4 Quiz",
+            "slug": "module-4-quiz",
+            "description": "Test your understanding of flow, clutch, motivation, data, and mental fatigue.",
+            "blocks": []
+          }
+        ]
+      },
+      {
+        "title": "Race Day",
+        "slug": "race-day",
+        "lessons": [
+          {
+            "title": "The Night Before",
+            "slug": "the-night-before",
+            "description": "The night before is the first phase of competition. Preparation replaces anxiety.",
+            "blocks": []
+          },
+          {
+            "title": "Race Morning",
+            "slug": "race-morning",
+            "description": "A Pre-Performance Routine eliminates decision-making when your brain is least equipped.",
+            "blocks": []
+          },
+          {
+            "title": "The First Hour",
+            "slug": "the-first-hour",
+            "description": "The first hour is where discipline separates execution from impulse.",
+            "blocks": []
+          },
+          {
+            "title": "Deliver",
+            "slug": "deliver",
+            "description": "This is clutch territory. Maximum deliberate effort. The moment every tool was built for.",
+            "blocks": []
+          },
+          {
+            "title": "Fueling Your Head",
+            "slug": "fueling-your-head",
+            "description": "Nutritional anxiety is a distinct psychological construct — not just 'eat right.'",
+            "blocks": []
+          },
+          {
+            "title": "After The Line",
+            "slug": "after-the-line",
+            "description": "Structured debrief, not rumination. Process the race, then put it away.",
+            "blocks": []
+          },
+          {
+            "title": "Module 5 Quiz",
+            "slug": "module-5-quiz",
+            "description": "Test your understanding of the race-day protocol from night-before through post-race debrief.",
+            "blocks": []
+          }
+        ]
+      },
+      {
+        "title": "When It All Goes Wrong",
+        "slug": "when-it-all-goes-wrong",
+        "lessons": [
+          {
+            "title": "The Emotional Rollercoaster Is Normal",
+            "slug": "the-emotional-rollercoaster-is-normal",
+            "description": "The emotional rollercoaster is not weakness. It's a sign that this mattered to you.",
+            "blocks": []
+          },
+          {
+            "title": "Stress Is Physical",
+            "slug": "stress-is-physical",
+            "description": "Mental stress amplifies physical pain. The vicious cycle is real.",
+            "blocks": []
+          },
+          {
+            "title": "Coping — What Actually Works",
+            "slug": "coping-what-actually-works",
+            "description": "Problem-focused when you can control it. Emotion-focused when you can't. Avoidance always backfires.",
+            "blocks": []
+          },
+          {
+            "title": "Injury — The Uninvited Teacher",
+            "slug": "injury-the-uninvited-teacher",
+            "description": "Injury threatens identity. If the athlete branch is the whole tree, losing it is existential.",
+            "blocks": []
+          },
+          {
+            "title": "Mental Toughness Is the Sum",
+            "slug": "mental-toughness-is-the-sum",
+            "description": "Mental toughness is the integration of every tool in this course.",
+            "blocks": []
+          },
+          {
+            "title": "The Habit, Not The Goal",
+            "slug": "the-habit-not-the-goal",
+            "description": "Daily micro-practice beats weekly deep sessions. The tools work — but only if you use them.",
+            "blocks": []
+          },
+          {
+            "title": "Module 6 Quiz",
+            "slug": "module-6-quiz",
+            "description": "Test your understanding of adversity, coping, injury, mental toughness, and habit formation.",
+            "blocks": []
+          }
+        ]
+      }
+    ]
+  }
+}
