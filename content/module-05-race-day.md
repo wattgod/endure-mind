@@ -34,31 +34,31 @@ The night before a race is the first phase of your competition performance. Not 
 
 It's a cascade. And the first domino is the evening before.
 
-Here's the principle: preparation replaces anxiety. When you have a structured, practiced routine for the night before a race, you don't have to think about what to do. You don't have to make decisions. You don't have to wonder if you've forgotten something. The routine carries you. Anxiety thrives in uncertainty. Structure kills uncertainty.
+The principle: preparation replaces anxiety. When you have a structured, practiced routine for the night before a race, you don't have to think about what to do. You don't have to make decisions. You don't have to wonder if you've forgotten something. The routine carries you. Anxiety thrives in uncertainty. Structure kills uncertainty.
 
 Every tool we've built in this course — the 6-2-7, Performance Statements, the Highlight Reel, your If-Then Plans, the Schema Statement — has a specific role on the night before a race. We're going to assign each one a time slot. Because a tool without a deployment plan is just a concept. And concepts don't perform under pressure. Systems do.
 
 ### THE SCIENCE
 
-Let me start with sleep, because that's where the anxiety focuses. Cheri Mah and her colleagues at Stanford published a study in 2011 in the journal *Sleep* that changed how we think about sleep and athletic performance. She had collegiate basketball players extend their sleep from about 7.5 hours to over 10 hours a night. Sprint speed improved. Reaction time improved by roughly a third to a half second. Shooting accuracy went up by about 9%. Sleep wasn't just recovery — it was a performance lever. More sleep, better output. Not marginally. Meaningfully.
+Start with sleep, because that's where the anxiety focuses. A landmark Stanford study on collegiate basketball players showed what happens when you extend sleep from about 7.5 hours to over 10 hours a night: sprint speed improved, reaction time improved by roughly a third to a half second, and shooting accuracy went up by about 9% (Mah et al., 2011, *Sleep*). Sleep wasn't just recovery — it was a performance lever. More sleep, better output. Not marginally. Meaningfully.
 
-But here's the catch, and this is what most people miss when they cite that research. Kolling and colleagues published a review in 2019 in the *International Journal of Sports Physiology and Performance* looking specifically at sleep disturbances the night before competition. What they found won't surprise anyone who's ever raced: athletes sleep terribly the night before events. Consistently. Almost universally. The anxiety, the unfamiliar environment, the early alarm — it all conspires against you.
+But the catch — and most people miss this when they cite that research — is what happens when sleep meets competition. A 2019 review of night-before sleep disturbances found exactly what you'd expect: athletes sleep terribly before events (Kolling et al., *International Journal of Sports Physiology and Performance*). Consistently. Almost universally. The anxiety, the unfamiliar environment, the early alarm — it all conspires against you.
 
 So the question isn't "how do I get perfect sleep the night before a race?" You probably won't. The question is: how do you minimize the damage?
 
 The answer, according to the research, is twofold. First, bank your sleep in the week before — not just the night before. One bad night doesn't wreck performance if you've been sleeping well all week. Second, have a relaxation protocol. The Kolling review specifically identified pre-sleep relaxation routines as one of the most effective strategies for improving night-before sleep quality.
 
-Now let me tell you about the worry itself. Hanton, Mellalieu, and Hall published a study in 2004 in *Psychology of Sport and Exercise* that interviewed elite athletes about pre-competition anxiety. The athletes who performed best weren't the ones who had no anxiety the night before. They had plenty. The difference was interpretation. They reframed the nerves as readiness signals — "my body is getting ready for tomorrow" — rather than threat signals — "something is wrong, I'm not prepared."
+Then there's the worry itself. A 2004 study in *Psychology of Sport and Exercise* interviewed elite athletes about pre-competition anxiety and found that the best performers weren't the ones with no anxiety the night before (Hanton, Mellalieu, & Hall). They had plenty. The difference was interpretation. They reframed the nerves as readiness signals — "my body is getting ready for tomorrow" — rather than threat signals — "something is wrong, I'm not prepared."
 
-This is an echo of what we learned in Module 1. The physical experience of excitement and anxiety are identical. Same heart rate elevation, same restlessness, same shallow breathing. The story you tell yourself about those sensations determines whether they help you or hurt you. The athletes in Hanton's study didn't have less anxiety. They had DIFFERENT anxiety. Facilitative anxiety — the kind that says "I'm ready" instead of "I'm in trouble." And that reinterpretation isn't automatic. It's a trained skill. Which is why it lives in a night-before protocol and not in a motivational poster.
+This echoes Module 1. The physical experience of excitement and anxiety are identical. Same heart rate elevation, same restlessness, same shallow breathing. The story you tell yourself about those sensations determines whether they help you or hurt you. Those athletes didn't have less anxiety. They had DIFFERENT anxiety. Facilitative anxiety — the kind that says "I'm ready" instead of "I'm in trouble." And that reinterpretation isn't automatic. It's a trained skill. Which is why it lives in a night-before protocol and not in a motivational poster.
 
-Here's a practical implication from the sleep research that most people miss. Kolling's review found that the WORRY about not sleeping was often more damaging than the actual sleep loss. Athletes who slept poorly but weren't anxious about it performed better than athletes who slept poorly and catastrophized about it. The second-order effect — the anxiety about the anxiety — is the real enemy. So when I tell you that the Night-Before Checklist isn't about fixing your sleep, I mean it literally. It's about fixing your relationship with the possibility of bad sleep. It's giving your brain permission to let go. The sleep will be whatever it is. Your job is to manage the hours BEFORE the sleep.
+One practical implication most people miss: Kolling's review found that the WORRY about not sleeping was often more damaging than the actual sleep loss. Athletes who slept poorly but weren't anxious about it performed better than athletes who slept poorly and catastrophized about it. The second-order effect — the anxiety about the anxiety — is the real enemy. So when I tell you that the Night-Before Checklist isn't about fixing your sleep, I mean it literally. It's about fixing your relationship with the possibility of bad sleep. It's giving your brain permission to let go. The sleep will be whatever it is. Your job is to manage the hours BEFORE the sleep.
 
-And one more piece. Research on pre-competition mental rehearsal — visualizing the event the evening before — has been identified as a consistent preparation strategy among successful elite athletes. Not just elite athletes who are talented. Successful ones. The ones who consistently convert their fitness into results. They visualize the night before. It's part of the routine. And it's not just habit — there's a neurological reason. The brain consolidates visualized experiences during sleep. If the last mental activity before sleep is a vivid, controlled visualization of tomorrow's race, your sleeping brain processes and reinforces that imagery overnight. You wake up with the visualization partially embedded. It's neurological priming disguised as a bedtime routine.
+One more piece. Research on pre-competition mental rehearsal — visualizing the event the evening before — has been identified as a consistent preparation strategy among successful elite athletes. Not just elite athletes who are talented. Successful ones. The ones who consistently convert their fitness into results. They visualize the night before. It's part of the routine. And it's not just habit — there's a neurological reason. The brain consolidates visualized experiences during sleep. If the last mental activity before sleep is a vivid, controlled visualization of tomorrow's race, your sleeping brain processes and reinforces that imagery overnight. You wake up with the visualization partially embedded. It's neurological priming disguised as a bedtime routine.
 
 ### THE TOOL: The Night-Before Checklist
 
-Here's your Night-Before Checklist. This is a structured sequence you'll execute in the final two hours before lights-out. Do these in order. Every race. Make it a ritual.
+The Night-Before Checklist is a structured sequence for the final two hours before lights-out. Five steps, in order. Every race. Make it a ritual.
 
 **Step 1: Logistics lockdown (60-90 minutes before bed).** Lay out everything. Kit, shoes, nutrition, hydration, number, pins, whatever your sport requires. All of it, physically arranged where you'll grab it in the morning. When it's laid out and visible, your brain can stop running the "did I forget something" loop. The chimp can't obsess over uncertainty when certainty is sitting on the hotel desk.
 
@@ -90,7 +90,7 @@ Next up: what to do when the alarm goes off and the race is real.
 
 You slept — kind of. Maybe five hours, maybe six, maybe you tossed for an hour before the 6-2-7 finally pulled you under. Doesn't matter. You're vertical now and the clock is running.
 
-Here's what most athletes do with the next two hours: panic in slow motion. They check their phone. Check the weather — it changed overnight, of course it did. Eat something while standing in a kitchen they've never cooked in, tasting nothing, chewing on autopilot. Drive to the venue. Park. Sit in the car for too long. Walk to registration. Stand in a porta-potty line. Stand in another porta-potty line. Pin on a number with hands that are slightly shaky. Warm up — or don't, because the corral is filling up and they're afraid of missing the start.
+What most athletes do with the next two hours: panic in slow motion. They check their phone. Check the weather — it changed overnight, of course it did. Eat something while standing in a kitchen they've never cooked in, tasting nothing, chewing on autopilot. Drive to the venue. Park. Sit in the car for too long. Walk to registration. Stand in a porta-potty line. Stand in another porta-potty line. Pin on a number with hands that are slightly shaky. Warm up — or don't, because the corral is filling up and they're afraid of missing the start.
 
 At no point in this sequence has anyone made a single deliberate psychological decision. It's all reactive. The chimp is running the show from the first alarm buzz, and by the time the gun goes off, you've spent two hours marinating in cortisol and making zero-quality decisions about where to point your attention.
 
@@ -102,7 +102,7 @@ She described the difference like this: "I went from being inside the car wash t
 
 That's the difference. Not the absence of chaos. The presence of a plan to move through it.
 
-Here's the other thing about race morning that nobody talks about. The social pressure. You walk into a start area and you're surrounded by people who appear to have it together. Calm faces. Easy laughter. Smooth warm-ups. Matching team kits and pre-race routines that look effortless. And your chimp does what it always does with social comparison: it concludes that everyone else is fine and you're the only one falling apart.
+There's another dimension to race morning that nobody talks about. The social pressure. You walk into a start area and you're surrounded by people who appear to have it together. Calm faces. Easy laughter. Smooth warm-ups. Matching team kits and pre-race routines that look effortless. And your chimp does what it always does with social comparison: it concludes that everyone else is fine and you're the only one falling apart.
 
 They're not fine. Everyone is managing their own chimp. The ones who look calm have either trained their arousal management or are so under-aroused they'll run flat for the first hour. The ones warming up with smooth strides are following a routine — and you need one too. Not theirs. Yours.
 
@@ -116,21 +116,21 @@ And the final 15 minutes before the gun? That's not warm-up time. That's deploym
 
 ### THE SCIENCE
 
-Cotterill, Sanders, and Collins published a study in 2010 in the *Journal of Applied Sport Psychology* that examined pre-performance routines in competitive athletes. Their key finding: athlete-generated routines were significantly more effective than coach-imposed ones. Why? Because the routine needs to address YOUR specific psychological needs. A routine that works for someone who runs hot on the arousal dial — who needs to calm down — is completely wrong for someone who runs cold and needs to fire up. Your routine has to match your nervous system, your personality, your sport, your specific anxieties.
+A 2010 study on pre-performance routines in competitive athletes found a key distinction: athlete-generated routines were significantly more effective than coach-imposed ones (Cotterill, Sanders, & Collins, *Journal of Applied Sport Psychology*). Why? Because the routine needs to address YOUR specific psychological needs. A routine that works for someone who runs hot on the arousal dial — who needs to calm down — is completely wrong for someone who runs cold and needs to fire up. Your routine has to match your nervous system, your personality, your sport, your specific anxieties.
 
-Lidor and Mayan demonstrated in a 2005 study in *The Sport Psychologist* that even novice athletes improved performance consistency when they adopted pre-performance routines. You don't need to be elite for this to work. You need to be consistent. And the consistency builds over time — each time you execute the routine, it becomes more automatic, which means it costs less prefrontal energy, which means more cognitive fuel is available for the race itself. The routine gets cheaper with practice. It's an investment that appreciates.
+Even novice athletes improve performance consistency when they adopt pre-performance routines (Lidor & Mayan, 2005, *The Sport Psychologist*). You don't need to be elite for this to work. You need to be consistent. And the consistency builds over time — each time you execute the routine, it becomes more automatic, which means it costs less prefrontal energy, which means more cognitive fuel is available for the race itself. The routine gets cheaper with practice. It's an investment that appreciates.
 
-And then there's the arousal piece. Hanton and Jones published research in 1999 in *The Sport Psychologist* showing that elite swimmers who had learned to interpret pre-competition symptoms as facilitative performed significantly better than those who viewed them as debilitative. Same butterflies. Same elevated heart rate. Same sweaty palms. The athletes who framed those sensations as "my body is getting ready" outperformed those who framed them as "I'm too nervous."
+Then there's the arousal piece. Elite swimmers who learned to interpret pre-competition symptoms as facilitative performed significantly better than those who viewed them as debilitative (Hanton & Jones, 1999, *The Sport Psychologist*). Same butterflies. Same elevated heart rate. Same sweaty palms. The athletes who framed those sensations as "my body is getting ready" outperformed those who framed them as "I'm too nervous."
 
-There's also research on music and pre-race activation. Terry and Karageorghis reviewed the evidence in 2011 and found that music selection during warm-up influences both psychological arousal and subjective readiness. This isn't just "listen to hype music" — it's a deliberate activation or de-activation tool depending on what you need. Slow, ambient music for the athlete who needs to come down. Driving, aggressive music for the athlete who needs to fire up. The key finding: the music has to be chosen deliberately, matched to the individual's arousal needs, not just whatever's on your shuffle.
+Music matters more than most athletes realize. A 2011 review found that music selection during warm-up influences both psychological arousal and subjective readiness (Terry & Karageorghis). This isn't just "listen to hype music" — it's a deliberate activation or de-activation tool depending on what you need. Slow, ambient music for the athlete who needs to come down. Driving, aggressive music for the athlete who needs to fire up. The key finding: the music has to be chosen deliberately, matched to the individual's arousal needs, not just whatever's on your shuffle.
 
 This is where Know Your Zone from Module 1 comes back. Remember your arousal mapping? Your three best performances and three worst? You identified your optimal zone. Race morning is where you calibrate to that zone. If you run hot, your protocol needs to bring you down — breathing, relaxation, slow deliberate movements. If you run cold, your protocol needs to bring you up — music, power phrases, explosive warm-up movements. Most endurance athletes need to come down. But not all. Know which one you are.
 
-One more thing before we get to the protocol. Hanton and Jones found something else in their research on pre-competition anxiety interpretation. The TIMING of the reappraisal mattered. Athletes who reframed their anxiety symptoms as facilitative BEFORE the final minutes of competition — not during it — showed the biggest performance benefits. The race-morning window is the window for reappraisal. Once the gun goes off, it's too late to change the story. You're running on whatever narrative you established in the preceding minutes. That's why the 15-Minute Pre-Race Protocol isn't a suggestion. It's the last psychological investment you can make before the returns are locked in.
+One more thing before we get to the protocol. The TIMING of the reappraisal matters. Hanton and Jones's data showed that athletes who reframed their anxiety symptoms as facilitative BEFORE the final minutes of competition — not during it — saw the biggest performance benefits. The race-morning window is the window for reappraisal. Once the gun goes off, it's too late to change the story. You're running on whatever narrative you established in the preceding minutes. That's why the 15-Minute Pre-Race Protocol isn't a suggestion. It's the last psychological investment you can make before the returns are locked in.
 
 ### THE TOOL: The 15-Minute Pre-Race Protocol
 
-Here's your final 15 minutes before the gun. Five phases. Scripted. Practiced.
+Your final 15 minutes before the gun. Five phases. Scripted. Practiced.
 
 **Minutes 15-10: Breathing reset (5 minutes).** Find a spot — doesn't matter if you're in a corral, standing behind a start line, or sitting in your car about to walk to the venue. Do the 6-2-7. Full protocol. Five minutes of slow diaphragmatic breathing. Inhale 6, hold 2, exhale 7. This isn't optional. This is the physiological foundation for everything that follows. You're activating the parasympathetic brake, dropping cortisol, lowering heart rate, clearing the neurological static. Five minutes. Don't shortcut it.
 
@@ -192,39 +192,37 @@ Different sports. Different terrains. Same mistake. Same brain. The chimp doesn'
 
 The first hour of any endurance event is the most psychologically dangerous phase of racing. Not the hardest — that comes later. The most dangerous. Because the combination of adrenaline, crowd energy, fresh legs, and the chimp's survival instincts creates a perfect storm of distorted perception.
 
-Here's the mechanism. Your reactive brain interprets the race start as a threat event. Competitors, noise, stakes, uncertainty — the chimp reads all of it as danger and dumps adrenaline. That adrenaline elevates your heart rate, lowers your perception of effort, and makes hard paces feel easy. This is documented. De Morree, Klein, and Marcora published a paper in 2012 in *Psychophysiology* showing that perceived effort in early exercise reflects brain motor command output, not peripheral fatigue. In plain language: going out too hard FEELS EASY. Your brain hasn't caught up to what your body is actually doing. The cost-prediction is lagging behind the expenditure.
+Here's the mechanism. Your reactive brain interprets the race start as a threat event. Competitors, noise, stakes, uncertainty — the chimp reads all of it as danger and dumps adrenaline. That adrenaline elevates your heart rate, lowers your perception of effort, and makes hard paces feel easy. This is documented — perceived effort in early exercise reflects brain motor command output, not peripheral fatigue (De Morree, Klein, & Marcora, 2012, *Psychophysiology*). In plain language: going out too hard FEELS EASY. Your brain hasn't caught up to what your body is actually doing. The cost-prediction is lagging behind the expenditure.
 
 So the first hour is not the time to feel your way through. It's the time to execute a plan. Override the chimp's input. Trust the structure. Settle into the race instead of attacking it. The first hour is a discipline problem, not a fitness problem. And discipline has a protocol.
 
 ### THE SCIENCE
 
-Faulkner, Parfitt, and Eston published a study in 2008 in *Psychophysiology* that revealed something fascinating about how athletes perceive effort during competition. RPE increases linearly with the proportion of race completed — regardless of actual conditions. Your brain subconsciously calibrates effort relative to the endpoint. Which means in the first 10% of a long race, almost everything feels manageable. Your brain is scaling the effort against the total distance. It's budgeting. But it's budgeting with bad data because adrenaline has corrupted the inputs.
+RPE increases linearly with the proportion of race completed — regardless of actual conditions. That finding, from a 2008 *Psychophysiology* study (Faulkner, Parfitt, & Eston), reveals something fundamental about effort perception during competition. Your brain subconsciously calibrates effort relative to the endpoint. Which means in the first 10% of a long race, almost everything feels manageable. Your brain is scaling the effort against the total distance. It's budgeting. But it's budgeting with bad data because adrenaline has corrupted the inputs.
 
-Smits, Pepping, and Hettinga published in *Sports Medicine* in 2014, framing pacing as a continuous decision-making process that integrates internal and external feedback. First-hour pacing errors aren't fitness failures. They're information-integration failures. Your brain is trying to set the right pace, but it's receiving distorted feedback — artificially low RPE from adrenaline, artificially high confidence from fresh legs, artificially strong motivation from crowd energy. The decision-making process is working correctly; the inputs are garbage.
+Pacing is a continuous decision-making process that integrates internal and external feedback (Smits, Pepping, & Hettinga, 2014, *Sports Medicine*). First-hour pacing errors aren't fitness failures. They're information-integration failures. Your brain is trying to set the right pace, but it's receiving distorted feedback — artificially low RPE from adrenaline, artificially high confidence from fresh legs, artificially strong motivation from crowd energy. The decision-making process is working correctly; the inputs are garbage.
 
-This is where the association-dissociation research from Module 1 becomes critical. Brick, MacIntyre, and Campbell's comprehensive review in 2014 established that at low to moderate intensity, dissociation — letting your mind wander, not monitoring the body closely — reduces perceived effort and is generally adaptive. But at high intensity, association — monitoring the body, tuning into physiological signals — is the adaptive strategy.
+This is where the association-dissociation research from Module 1 becomes critical. At low to moderate intensity, dissociation — letting your mind wander, not monitoring the body closely — reduces perceived effort and is generally adaptive. But at high intensity, association — monitoring the body, tuning into physiological signals — is the adaptive strategy (Brick, MacIntyre, & Campbell, 2014).
 
 The first hour of a race is a moderate-intensity phase that FEELS like a low-intensity phase because of adrenaline. The correct attentional strategy is association — monitor your body, check your pacing, stay connected to the actual physiological data rather than the perceived effort. Trust the numbers. Trust your RPE Journal data from Module 1 that proved your brain adds a surcharge. Except in the first hour, the surcharge works in reverse. Instead of making hard things feel harder — which is what the chimp usually does — the adrenaline DISCOUNT makes hard things feel easy. Your RPE Journal showed you that the brain adds 1-3 points in training. In the first hour of a race, it SUBTRACTS 1-3 points. A 7 feels like a 5. Threshold feels like tempo. Red line feels like sweet spot.
 
-This is why the first hour is so dangerous. The chimp isn't adding a tax — it's giving you a rebate. And rebates feel great in the moment and destroy you later.
-
-There's one more concept from the research that's critical here. Smits and colleagues described pacing as a continuous decision-making process that relies on the integration of internal signals — RPE, heart rate, breathing, muscle sensation — and external signals — terrain, competitors, weather, distance markers. In the first hour, both signal streams are corrupted. Internal signals are dampened by adrenaline. External signals are amplified by crowd energy and competitive instinct. The decision-making process is working correctly, but it's working with garbage inputs. Which produces garbage pacing.
+That's why the first hour is so dangerous. The chimp isn't adding a tax — it's giving you a rebate. And rebates feel great in the moment and destroy you later.
 
 ### THE TOOL: The First-Hour Focus Script
 
-Here's your First-Hour Focus Script. This is pre-written self-talk — specific phrases for the opening phase of racing — combined with an attentional focus plan. You're going to memorize these and deploy them from the gun.
+The First-Hour Focus Script combines pre-written self-talk with an attentional focus plan. Memorize these phrases. Deploy them from the gun.
 
 **The mantra (first 10 minutes):** "Settle. Execute. The race is long."
 
 Say this to yourself. Repeatedly. When the gun goes off and the chimp screams GO, you answer with: "Settle. Execute. The race is long." When a gap opens and your legs want to chase, you answer with: "Settle. Execute. The race is long." When someone passes you and the chimp says YOU'RE FALLING BEHIND, you answer with: "Settle. Execute. The race is long."
 
-This is instructional self-talk. It's directing your behavior rather than evaluating it. It's not "calm down" — which is vague and rarely works. It's three specific commands: settle your effort, execute your plan, remember the duration.
+Instructional self-talk. Directing your behavior rather than evaluating it. Not "calm down" — which is vague and rarely works. Three specific commands: settle your effort, execute your plan, remember the duration.
 
 **The pacing check (every 15 minutes for the first hour):** Run a quick diagnostic. Two questions. First: "What's my RPE?" Rate it honestly, 1-10. Second: "What does my data say?" Check your watch, your power meter, your pace — whatever objective feedback you have.
 
 Compare the two. In the first hour, if your RPE is low and your data says you're at or above plan, you're going too hard. The adrenaline discount is active. Back off. If your RPE matches your data and both are where they should be, you're executing. Stay there.
 
-This is the RPE-versus-data cross-check from Module 1, deployed in real time. Trust the data early. Trust RPE later. In the first hour, RPE is the unreliable witness and data is the corroborating evidence.
+This is the RPE-versus-data cross-check from Module 1, deployed in real time. Trust the data early. Trust RPE later. In Module 4, you rebuilt your internal signal with Analog Sessions. That signal is real — and it's essential from mid-race onward. But in the first hour, adrenaline corrupts it. Your RPE is lying to you. That's when the watch is your anchor.
 
 **The attentional plan (entire first hour):** Alternate between two modes. Broad-external for positioning and tactics — where are you in the field, what's the terrain doing, who's around you, what's the energy of the group. Narrow-internal for pacing — breathing rate, leg sensation, heart rate, perceived effort.
 
@@ -278,7 +276,7 @@ This is the deciding moment. And this is where the course delivers.
 
 The deciding moment is not flow territory. I need you to understand that. Everything you've heard about peak performance — being in the zone, effortless execution, losing yourself in the experience — that's real, and it's beautiful when it happens. But the deciding moment of an endurance race is not when flow saves you. It's when flow is gone.
 
-The deciding moment is clutch territory. Remember Module 4 — Swann and colleagues' research on clutch performance. Clutch is the opposite of flow. Flow is effortless. Clutch is maximal effort. Flow happens to you. Clutch is something you DO. Flow is unconscious. Clutch is the most deliberate, most conscious, most intentional thing you've ever done.
+This is clutch territory. Remember Swann's research from Module 4 — flow and clutch are different states, and clutch is what you need when the race is on the line. Flow is gone. Clutch is what's left. And clutch is the most deliberate, most conscious, most intentional thing you've ever done.
 
 In the deciding moment, you are not going to feel good. You are not going to feel effortless. You are going to feel terrible. And the question is whether you have a system — a practiced, drilled, step-by-step decision tree — that you can execute when you feel terrible. Because "try harder" isn't a system. "Dig deep" isn't a system. "Just push through" isn't a system. Those are platitudes, and platitudes evaporate the instant real suffering arrives.
 
@@ -286,15 +284,13 @@ You need a stack. A sequence. A set of actions you take in order, each one build
 
 ### THE SCIENCE
 
-Let me layer in the research that makes this stack work.
+Clutch performance involves heightened effort and deliberate concentration under pressure — that's the definitive finding from a 2017 study on the psychological state underlying clutch moments (Swann, Crust, Jackman, et al., *Journal of Sports Sciences*). It's not about relaxing into the moment. It's about marshaling every cognitive resource you have and directing it at the task with maximum intentionality. The deciding moment requires MORE mental effort, not less. Which means you need a protocol that channels that effort productively rather than letting it scatter into panic.
 
-Swann, Crust, Jackman, and colleagues published a study in 2017 in the *Journal of Sports Sciences* examining the psychological state underlying clutch performance. What they found was definitive: clutch performance involves heightened effort and deliberate concentration under pressure. It's not about relaxing into the moment. It's about marshaling every cognitive resource you have and directing it at the task with maximum intentionality. The deciding moment requires MORE mental effort, not less. Which means you need a protocol that channels that effort productively rather than letting it scatter into panic.
+For the late stages of endurance events at high intensity, the adaptive attentional strategy is association (Brick, MacIntyre, & Campbell, 2016, *British Journal of Sports Medicine*). Tune IN. Monitor the body. Stay connected to the data stream — breathing, leg sensation, heart rate. This is not the time to dissociate. This is not the time to think about dinner. This is the time to be fully, completely, brutally present with what your body is doing. Because at this intensity, you need that information to manage the effort and prevent catastrophic blowup.
 
-Brick, MacIntyre, and Campbell published an updated study in 2016 in the *British Journal of Sports Medicine* that clarified attentional strategies specifically for the late stages of endurance events at high intensity. Their finding: association is the adaptive strategy. Tune IN. Monitor the body. Stay connected to the data stream — breathing, leg sensation, heart rate. This is not the time to dissociate. This is not the time to think about dinner. This is the time to be fully, completely, brutally present with what your body is doing. Because at this intensity, you need that information to manage the effort and prevent catastrophic blowup.
+Tolerance of exercise-induced pain at a fixed RPE predicted time trial performance (Astokorki & Mauger, 2017, *European Journal of Sport Science*). Read that carefully. The faster athletes didn't feel less pain. They tolerated more of it. Perceptual reappraisal — changing what the pain MEANS — is a genuine performance skill. "My legs are telling me I'm working hard" is a fundamentally different cognitive event than "my legs are telling me I'm failing." Same sensation. Different story. Different outcome.
 
-Astokorki and Mauger published in 2017 in the *European Journal of Sport Science* that tolerance of exercise-induced pain at a fixed RPE predicted time trial performance. Read that carefully. It's not that the faster athletes felt less pain. They tolerated more of it. The pain was the same. The interpretation was different. Perceptual reappraisal — changing what the pain MEANS — is a genuine performance skill. "My legs are telling me I'm working hard" is a fundamentally different cognitive event than "my legs are telling me I'm failing." Same sensation. Different story. Different outcome.
-
-And here's the piece that ties the stack together. Segmentation — breaking the remaining distance into sub-goals — is one of the most robustly supported pacing and coping strategies in the literature. When the remaining distance feels impossible, the brain catastrophizes about the entire remaining effort. "I can't hold this for another hour." But you don't have to hold it for another hour. You have to hold it to the next aid station. The next mile marker. The next turn. The next minute. Segmentation shrinks the task to a size the brain can process without triggering the shutdown response.
+The piece that ties the stack together: segmentation — breaking the remaining distance into sub-goals — is one of the most robustly supported pacing and coping strategies in the literature. When the remaining distance feels impossible, the brain catastrophizes about the entire remaining effort. "I can't hold this for another hour." But you don't have to hold it for another hour. You have to hold it to the next aid station. The next mile marker. The next turn. The next minute. Segmentation shrinks the task to a size the brain can process without triggering the shutdown response.
 
 ### THE TOOL: The Grit Stack
 
@@ -316,7 +312,7 @@ Detachment — from Module 2 — creates a split-second of separation between th
 
 **Step 3: REFRAME.**
 
-Perceptual reappraisal. Change what the sensation means.
+Perceptual reappraisal. Change what the sensation means. You have two weapons for this — the pre-written reframes below, and your Performance Statements from Module 2. Use whichever fires first. They do the same thing: answer the chimp's negative chess pieces with a different story about the same sensation.
 
 "My legs are burning" becomes "My legs are telling me I'm working at a level most people will never reach."
 
@@ -326,9 +322,7 @@ Perceptual reappraisal. Change what the sensation means.
 
 "I'm falling behind" becomes "I'm still moving forward. Everyone is suffering. The ones who keep moving forward are the ones who finish."
 
-This is the science from Astokorki and Mauger in action. The pain is real. You're not denying it. You're not pretending it doesn't exist. You're changing the STORY. The sensation stays the same. The meaning changes. And meaning drives behavior.
-
-Deploy a Performance Statement here. This is exactly the moment they were built for. Your pain-response statement. Your process statement. The ones you memorized in Module 2. They're pre-loaded, practiced, ready to deploy. They answer the chimp's negative chess pieces with an action-directed positive thought.
+Or deploy your pain-response Performance Statement. Your process statement. The ones you memorized in Module 2 — pre-loaded, practiced, ready. They work the same mechanism: the pain is real, you're not denying it, but you're changing the STORY. The sensation stays the same. The meaning changes. And meaning drives behavior.
 
 **Step 4: EXECUTE.**
 
@@ -352,7 +346,7 @@ That's your race now. Not the finish line. Not the remaining distance. The next 
 
 You're not running a marathon anymore. You're running to the next lamp post. You're not riding 40 more miles. You're riding to the next corner. You're not climbing for 20 more minutes. You're climbing to that rock right there.
 
-This is segmentation, and it works because the brain's threat calculation depends on the perceived size of the remaining task. "40 more miles of suffering" triggers the shutdown response. "The next half-mile" doesn't. Same total effort. Different framing. Different neurological response.
+This is segmentation, and it works because the brain's threat calculation depends on the perceived size of the remaining task. "40 more miles of suffering" triggers the shutdown response. "The next half-mile" doesn't. The effort is identical. The framing changes everything.
 
 ---
 
@@ -382,7 +376,7 @@ Mile 70 of a 100-mile race. You reach into your pocket for your next gel. It's t
 
 It's not there. You used your last one 20 minutes ago and forgot to restock at the last aid station. Or the aid station didn't have your brand. Or you grabbed a different flavor and now your stomach is doing something it's never done before — a low gurgle that feels like a warning siren from a submarine.
 
-And here's what happens next. Not in your stomach. In your head.
+What happens next isn't in your stomach. It's in your head.
 
 "I'm going to bonk."
 
@@ -402,7 +396,7 @@ The common thread isn't bad nutrition. It's bad psychology about nutrition.
 
 Nutritional anxiety is real. Not "real" as in "athletes worry about food" — real as in formally identified as a distinct psychological construct by researchers. It affects performance independently of actual nutrition. You can eat perfectly and still suffer the performance consequences of nutritional anxiety. And you can have a minor nutritional hiccup — a missed gel, a slightly off-schedule intake — and turn it into a genuine crisis through the anxiety cascade alone.
 
-Here's what makes this insidious. Most sport psychology courses don't touch nutrition. They treat it as a physiology problem — "eat enough, eat on time, practice your plan." And the physiology is real. But the psychology of fueling is a separate system that interacts with the physiology in ways that can amplify or neutralize the physical effects.
+What makes this insidious: most sport psychology courses don't touch nutrition. They treat it as a physiology problem — "eat enough, eat on time, practice your plan." And the physiology is real. But the psychology of fueling is a separate system that interacts with the physiology in ways that can amplify or neutralize the physical effects.
 
 When your brain believes you're under-fueled — whether you actually are or not — it responds the same way it responds to any threat. Sympathetic activation. Cortisol. Adrenaline. Anxiety. And those stress hormones do something very specific to your gut: they reduce blood flow to your digestive system, slow gastric emptying, and increase intestinal permeability. In plain language, stress makes your stomach stop working properly. Which means the food you DO eat doesn't get processed efficiently. Which means you actually DO start under-fueling. Which confirms the anxiety. Which produces more stress.
 
@@ -410,27 +404,29 @@ The bonking cascade isn't just about calories. It's a feedback loop between your
 
 ### THE SCIENCE
 
-A team led by Viribay published a study in 2025 in the journal *Nutrients* that formally identified and categorized nutritional anxiety in endurance athletes. They found three distinct clusters. First: anticipatory fear of dietary mistakes — worrying about nutrition before the event even starts. Second: internal negotiation between knowledge and situational trust — knowing what you should eat but not trusting that it'll work in race conditions. Third: ritualization as psychological regulation — using rigid nutritional routines as anxiety management, which backfires when the routine gets disrupted.
+A 2025 study in *Nutrients* should change how you think about race fueling. Researchers tracked athletes who fell apart nutritionally and found three distinct patterns — not random collapses, but predictable failure modes (Viribay et al.).
 
-Read those three clusters again and tell me you haven't experienced all of them.
+The first: anticipatory fear of dietary mistakes — worrying about nutrition before the event even starts. This is the athlete lying awake the night before wondering if she should have practiced with a different gel. The race hasn't begun and the anxiety is already burning matches.
 
-The third one is particularly important. Many athletes develop extremely rigid fueling plans — gel every 45 minutes, exactly 60 grams of carbs per hour, this brand, this flavor, this timing. And in training, that rigidity is fine. But in a race, when the aid station is late, when your stomach says no, when you drop a bottle — the rigid plan shatters, and the athlete shatters with it. Because the plan wasn't just a nutrition strategy. It was an anxiety management strategy. The plan itself was the coping mechanism. When the plan breaks, the coping breaks.
+The second: internal negotiation between knowledge and situational trust — knowing what you should eat but not trusting that it'll work in race conditions. You've done the math. You know you need 60 grams of carbs per hour. But three hours in, with your stomach churning and the heat climbing, your brain starts whispering: "What if today's different? What if it doesn't work THIS time?" That negotiation is where athletes start freelancing — and freelancing mid-race is where nutrition plans go to die.
 
-Now let me tell you about the brain-gut connection. Carter, Jeukendrup, and Jones published a fascinating study in 2004 in *Medicine & Science in Sports & Exercise*. They had cyclists do a one-hour time trial under three conditions: no drink, water mouth rinse, and carbohydrate mouth rinse. The athletes who swished a carbohydrate solution in their mouth — without swallowing it — performed significantly better than those who rinsed with water. No calories entered the body. Zero fuel was delivered. But performance improved.
+The third — and this is the one I see destroy the most race days: ritualization as psychological regulation. Using rigid nutritional routines as anxiety management, which backfires catastrophically when the routine gets disrupted. Many athletes develop extremely rigid fueling plans — gel every 45 minutes, exactly 60 grams of carbs per hour, this brand, this flavor, this timing. In training, that rigidity is fine. But in a race, when the aid station is late, when your stomach says no, when you drop a bottle — the rigid plan shatters, and the athlete shatters with it. Because the plan wasn't just a nutrition strategy. It was a coping mechanism. When the plan breaks, the coping breaks.
 
-Why? Because there are carbohydrate receptors in your mouth that connect directly to reward and motor circuits in your brain. Jeukendrup and Chambers followed up in 2010, publishing in *Current Opinion in Clinical Nutrition and Metabolic Care*, and showed the mechanism: oral carbohydrate activates the insular cortex and the striatum — brain regions involved in reward processing and motor output. The brain detected the carbohydrate, interpreted it as "fuel is coming," reduced perceived effort, and increased motor output. Before a single calorie was absorbed.
+This is where psychology starts to override physiology entirely. In 2004, cyclists completed a one-hour time trial under three conditions: no drink, water mouth rinse, and carbohydrate mouth rinse (Carter, Jeukendrup, & Jones, *Medicine & Science in Sports & Exercise*). The athletes who swished a carbohydrate solution in their mouth — without swallowing it — performed significantly better than those who rinsed with water. No calories entered the body. Zero fuel was delivered. But performance improved.
 
-Your brain's BELIEF about your fuel state affects performance independently of your actual fuel state. The mouth-rinse studies prove it. Which means nutritional anxiety — the belief that you're under-fueled, the belief that your plan is failing — has a direct performance cost even when your actual caloric intake is adequate.
+Let that sink in. Your mouth has carbohydrate receptors that connect directly to reward and motor circuits in your brain. The confirmed mechanism: oral carbohydrate activates the insular cortex and the striatum — brain regions involved in reward processing and motor output (Jeukendrup & Chambers, 2010, *Current Opinion in Clinical Nutrition and Metabolic Care*). The brain detected the carbohydrate, interpreted it as "fuel is coming," reduced perceived effort, and increased motor output. Before a single calorie was absorbed.
 
-And then there's the gut distress spiral. De Oliveira, Burini, and Jeukendrup reviewed the prevalence and causes of gastrointestinal complaints during exercise in a 2014 paper in *Sports Medicine*. Between 20 and 50 percent of endurance athletes experience GI distress during competition. And the review identified psychological stress as a major contributor. Anxiety about fueling doesn't just make you worried about your gut — it actively worsens gut function, creating the exact symptoms you feared.
+This is why I keep hammering the psychology of fueling. Your brain's BELIEF about your fuel state affects performance independently of your actual fuel state. The mouth-rinse studies prove it. Which means nutritional anxiety — the belief that you're under-fueled, the belief that your plan is failing — has a direct performance cost even when your actual caloric intake is adequate. You can be eating perfectly and still bonk because your brain decided you weren't.
 
-The cortisol spike from anxiety redirects blood away from the digestive system. Gastric emptying slows. The food sits in your stomach instead of being processed. You feel bloated, nauseous, crampy. And now you stop eating — because your gut feels terrible and the idea of putting more food in is unbearable. But not eating makes the eventual bonk worse. The anxiety about fueling has now created a genuine fueling problem.
+The spiral goes deeper. Between 20 and 50 percent of endurance athletes experience gut distress during competition (de Oliveira, Burini, & Jeukendrup, 2014, *Sports Medicine*). The kicker: psychological stress was identified as a major contributor. Not bad food choices. Not unfamiliar products. Stress itself.
+
+The mechanism is direct. The cortisol spike from anxiety redirects blood away from the digestive system. Gastric emptying slows. The food sits in your stomach instead of being processed. You feel bloated, nauseous, crampy. And now you stop eating — because your gut feels terrible and the idea of putting more food in is unbearable. But not eating makes the eventual bonk worse. The anxiety about fueling has created the fueling problem. The fear of the bonk caused the bonk.
 
 This is why "nothing new on race day" is a psychological rule, not just a physiological one. It's not just that your body needs to be familiar with the fuel. Your BRAIN needs to be familiar with the fuel. Your brain needs the evidence — from repeated, successful practice — that this nutrition plan works. Without that evidence, the brain defaults to uncertainty. And uncertainty is where the chimp lives.
 
 ### THE TOOL: The Fueling Rehearsal
 
-Here's the tool. The Fueling Rehearsal. And it's simpler than you might expect — because the complexity isn't in the protocol, it's in the commitment to actually doing it.
+The Fueling Rehearsal is simpler than you'd expect — because the complexity isn't in the protocol. It's in the commitment to actually doing it.
 
 **Step 1: Build your race nutrition plan.** You probably already have one. Grams of carbs per hour, fluid intake, timing, brands, what you carry versus what you grab at aid stations. If you don't have one, build one — but that's physiology, not psychology. We're not here to design your nutrition plan. We're here to bulletproof it psychologically.
 
@@ -462,11 +458,11 @@ Next up: the last lesson of this module. You've crossed the line. The race is ov
 
 ### HOOK
 
-You cross the finish line. Doesn't matter if you crushed it or barely survived it — the moment you stop, something happens that nobody warned you about.
+Every race has two finish lines. The first is the one you cross with your body — the timing mat, the banner, the clock. The second is the one you cross with your mind, and most athletes never realize it's there.
 
-The first 30 seconds are a blur. Relief. Maybe euphoria. Maybe tears. Maybe you just stand there with your hands on your knees, breathing like you've never breathed before, not thinking anything coherent at all.
+The first 30 seconds after stopping are a blur. Relief. Maybe euphoria. Maybe tears. Maybe you just stand there with your hands on your knees, breathing like you've never breathed before, not thinking anything coherent at all.
 
-Then the fog clears. And the analysis begins.
+Then the fog clears. And the second finish line appears.
 
 If you had a good race, the high lasts about an hour. Maybe two. And then — seemingly out of nowhere — a flatness settles in. A "now what?" feeling that's bizarrely close to sadness. You spent weeks or months building toward this event. You structured your training around it. You thought about it every day. Your identity was partially organized around preparing for this race. And now it's done. The thing that gave your days structure and purpose is in the rearview mirror, and the road ahead is... unclear.
 
@@ -488,19 +484,19 @@ The difference between reflection and rumination isn't the content — it's the 
 
 ### THE SCIENCE
 
-Nolen-Hoeksema, Wisco, and Lyubomirsky published a definitive paper in 2008 in *Perspectives on Psychological Science* distinguishing adaptive reflection from maladaptive rumination. Their research showed that rumination — repetitive, self-focused, negative thought — doesn't just fail to help. It actively worsens mood, increases depression symptoms, and impairs future problem-solving. People who ruminate after negative events perform WORSE on subsequent challenges compared to people who reflect briefly and then move on. The rumination doesn't just feel bad. It makes you worse.
+A definitive 2008 paper in *Perspectives on Psychological Science* distinguished adaptive reflection from maladaptive rumination (Nolen-Hoeksema, Wisco, & Lyubomirsky). The finding: rumination — repetitive, self-focused, negative thought — doesn't just fail to help. It actively worsens mood, increases depression symptoms, and impairs future problem-solving. People who ruminate after negative events perform WORSE on subsequent challenges compared to people who reflect briefly and then move on. The rumination doesn't just feel bad. It makes you worse.
 
 For athletes, this is devastating. Because the post-race window is exactly when you're most vulnerable to rumination. You're physically depleted — low glycogen means low prefrontal function, which means less ability to manage the chimp. You're emotionally raw — hours of effort strip away your psychological defenses. And you have nothing to do — the training plan is paused, the event is over, and the brain has no task to occupy it. So it occupies itself with rumination.
 
-Thelwell, Greenlees, and Weston published a study in 2006 in the *Journal of Applied Sport Psychology* demonstrating that structured psychological reflection following competition was associated with improved future performance. Athletes who completed formal debriefing protocols after events didn't just feel better — they performed better in subsequent competitions. The debrief wasn't just emotional first aid. It was a learning tool that converted experience into improvement.
+Structured psychological reflection following competition is associated with improved future performance (Thelwell, Greenlees, & Weston, 2006, *Journal of Applied Sport Psychology*). Athletes who completed formal debriefing protocols after events didn't just feel better — they performed better in subsequent competitions. The debrief wasn't just emotional first aid. It was a learning tool that converted experience into improvement.
 
-And then there's the research on post-event psychological disengagement. Studies on competitive athletes have shown that unplanned downtime after major events — no structure, no next goal, no transition plan — is a significant driver of burnout and psychological disengagement. The post-race crash isn't just a mood blip. If left unmanaged, it can erode motivation, damage self-concept, and trigger a withdrawal from the sport entirely.
+Unplanned downtime after major events — no structure, no next goal, no transition plan — is a significant driver of burnout and psychological disengagement. The post-race crash isn't just a mood blip. If left unmanaged, it can erode motivation, damage self-concept, and trigger a withdrawal from the sport entirely.
 
-Podlog, Dimmock, and Miller reviewed the literature on post-event transitions in 2011 in *Physical Therapy in Sport* and found that athletes left without structured post-event frameworks were psychologically vulnerable. Not just after injury — after ANY major event, including successful ones. The structured debrief serves as a psychological bridge between the event and whatever comes next. Without that bridge, athletes fall into the gap.
+Athletes left without structured post-event frameworks are psychologically vulnerable (Podlog, Dimmock, & Miller, 2011, *Physical Therapy in Sport*). Not just after injury — after ANY major event, including successful ones. The structured debrief serves as a psychological bridge between the event and whatever comes next. Without that bridge, athletes fall into the gap.
 
 ### THE TOOL: The Post-Race Debrief
 
-Here's the Post-Race Debrief. Four questions. Completed within 24 hours of crossing the finish line. Written — not just thought about. Written. Pen on paper or fingers on keyboard. The act of writing forces structure, prevents circular thinking, and creates a record you can reference later.
+The Post-Race Debrief. Four questions. Completed within 24 hours of crossing the finish line. Written — not just thought about. Written. Pen on paper or fingers on keyboard. Writing forces structure, prevents circular thinking, and creates a record you can reference later.
 
 **Question 1: What went well?**
 
@@ -552,7 +548,7 @@ The story you tell yourself about a race becomes part of your identity. The Post
 
 And that's Module 5: Race Day.
 
-Let's take stock. You now have a complete, phase-by-phase competition protocol built from every tool in this course.
+Your race-day toolkit, in order:
 
 The night before: logistics, worry dump, If-Then plans, Highlight Reel, 6-2-7 into sleep. Race morning: the 15-Minute Pre-Race Protocol — breathe, visualize, affirm, calibrate. The first hour: the Focus Script — settle, execute, the race is long. Pacing checks. Attentional plan. Performance Statement deployment. The deciding moment: the Grit Stack — Breathe, Detach, Reframe, Execute, Segment. Fueling: the Fueling Rehearsal — practiced, disruption-tested, psychologically bulletproofed. After the line: the Post-Race Debrief — four questions, written, closed.
 
@@ -560,18 +556,18 @@ Six phases. Six tools. One system.
 
 None of these tools are complicated. You already know them all — you've been building them since Module 1. What makes this module different is that it puts them in order. It tells you which tool to use, when to use it, and why. It takes a toolkit and turns it into a protocol.
 
-And here's the thing I need you to hear, because it's the first principle of this module and it's the most important sentence in the entire lesson: race day is not the time to learn mental skills. It's the time to execute the ones you've trained.
+This is the first principle of this module and the most important sentence in the entire lesson: race day is not the time to learn mental skills. It's the time to execute the ones you've trained.
 
 If you try to deploy the Grit Stack for the first time in a race, it won't work. If you've never practiced the 6-2-7 under stress, it won't feel natural. If your Highlight Reel is still a concept rather than a practiced visualization, it won't generate confidence. If your If-Then plans are vague, they won't fire automatically.
 
 Practice the system. In training. In B-races. In hard group sessions. In the moments that don't count — so that when the moments DO count, the system is automatic.
 
-Race day is an open-book exam. But only if you've written the book.
+Race day isn't where you learn. It's where you execute. Every tool in this module exists so that when the chaos hits, you don't have to think — you just run the protocol.
 
-Are you with me? Good.
+That's the playbook. All of it. From the night before to the morning after.
 
 One module left. Module 6. Because no system is complete until you know what to do when everything breaks. Injury. Slumps. Setbacks. The days when the Grit Stack isn't enough. The days when showing up is the whole victory.
 
-We'll get there. But first — go practice your race-day system. You've got the protocol. Now go rehearse it until it's yours.
+Go practice your race-day system. Take the Grit Stack into your next hard session. Run the Fueling Rehearsal on your next long day. Script your First-Hour Focus and say it out loud until the words are automatic. The protocol only works if it's yours before the gun goes off.
 
 See you in Module 6.
