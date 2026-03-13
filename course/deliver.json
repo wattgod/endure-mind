@@ -14,37 +14,711 @@
             "title": "The Chimp and The Coach",
             "slug": "the-chimp-and-the-coach",
             "description": "Your brain has two systems — one reacts, one decides. Performance lives in the gap between them.",
-            "blocks": []
+            "blocks": [
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "Module 1: The Two Brains — Your brain has two systems, one reacts, one decides. Performance lives in the gap between them. Over six lessons, you'll learn the machinery running under every training session and every race."
+              },
+              {
+                "type": "callout",
+                "variant": "info",
+                "content": "Before you begin, rate yourself 1-10: How well do you currently manage your mental game during hard efforts? Write it down. You'll re-rate at the end of this module."
+              },
+              {
+                "type": "text",
+                "content": "You're on a start line. Maybe it's a gravel race — one of those 100-milers where they hand you a course map and say \"good luck, there's no cell service after mile 30.\" Maybe it's the start corral of a marathon you've trained six months for. Maybe it's a local Tuesday throwdown with that one person who always attacks like they've got something to prove."
+              },
+              {
+                "type": "text",
+                "content": "Your heart rate is already at 130 and you haven't taken a step. Your hands are sweating. Your brain is running a highlight reel — but not the good kind. Every bad start. Every bonk. Every time you got dropped before it even started hurting."
+              },
+              {
+                "type": "text",
+                "content": "None of this is useful. You KNOW your fitness is fine. You did the training. Your numbers are where they should be. And yet your brain is acting like you're about to get eaten by a bear."
+              },
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "By the end of this lesson, you will understand the two-brain system that drives every decision you make under pressure — and you'll have a tool to start seeing the gap between reaction and response."
+              },
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "You have two brains. One reacts, one decides. The reactive brain — the chimp — is fast, emotional, and automatic. The deliberate brain — the coach — is slower, rational, and effortful. The chimp fires first. Always. Five times faster than the coach. By the time the coach has formed a rational thought, the chimp has already made three bad decisions."
+              },
+              {
+                "type": "tabs",
+                "tabs": [
+                  {
+                    "label": "The Chimp (System 1)",
+                    "content": "Your limbic system — the emotional, reactive, survival-oriented machinery that evolved to keep you alive. It's ancient, powerful, and it doesn't give a damn about your race plan. It's the part that panics on descents, goes out too hard at race starts, and quits when you have 10% more to give. Marshall and Paterson call it the \"chimp brain\" in The Brave Athlete. It sees speed + exposure + gravity and screams DANGER. It sees competitors going fast and screams DON'T GET LEFT BEHIND. It gets there first. Every time."
+                  },
+                  {
+                    "label": "The Coach (System 2)",
+                    "content": "Your prefrontal cortex — the newest part of the human brain, evolutionarily speaking. The calm, rational voice that makes a pacing plan, decides to hold back on the first climb because six more are coming, and can look at a scary descent and say \"I've ridden this a hundred times, I know my line.\" It can override a bad thought with a better one. But it requires energy, it fatigues, and it's slower than the chimp. The coach is powerful — but only if you give it time to show up."
+                  }
+                ]
+              },
+              {
+                "type": "accordion",
+                "panels": [
+                  {
+                    "title": "Kahneman's Dual-Process Theory",
+                    "content": "Daniel Kahneman published Thinking, Fast and Slow in 2011, synthesizing decades of research on dual-process theory. The idea that human cognition operates in two distinct modes — one fast and intuitive, one slow and analytical — has been validated across hundreds of studies. It's one of the most robust findings in all of psychology."
+                  },
+                  {
+                    "title": "Marshall & Paterson: The Brave Athlete",
+                    "content": "Marshall and Paterson brought Kahneman's framework into sport in 2017. They mapped the two systems onto athletic performance and documented the specific ways the limbic system hijacks athletic decision-making under pressure — working with athletes across disciplines."
+                  },
+                  {
+                    "title": "The Fight-or-Flight Cascade",
+                    "content": "When the chimp detects a threat — race starts, hard intervals, being passed, a hill that looks steeper than expected — it triggers the amygdala. The amygdala signals the hypothalamus, which activates the sympathetic nervous system. Heart rate up. Breathing shallow. Muscles tense. Cortisol and adrenaline flood your system. Completely appropriate if a predator is chasing you. Catastrophically unhelpful if you're executing a pacing strategy at mile one."
+                  },
+                  {
+                    "title": "Ego Depletion",
+                    "content": "The prefrontal cortex requires energy. Self-control — System 2 overriding System 1 — draws from a limited resource pool, as Baumeister's work on ego depletion showed (confirmed by Hagger et al., 2009). Every time you override a panicked thought in hour one, you're spending prefrontal resources you might desperately need in hour four when the race is actually being decided."
+                  }
+                ]
+              },
+              {
+                "type": "callout",
+                "variant": "quote",
+                "content": "Between stimulus and response there is a space. In that space is our freedom and our power to choose our response.",
+                "attribution": "Viktor Frankl"
+              },
+              {
+                "type": "quiz",
+                "question": "The chimp brain fires before the coach brain because:",
+                "options": [
+                  { "label": "A", "text": "The chimp brain is smarter", "correct": false },
+                  { "label": "B", "text": "The reactive brain processes information roughly five times faster than the deliberate brain", "correct": true },
+                  { "label": "C", "text": "The coach brain only works during rest", "correct": false },
+                  { "label": "D", "text": "The chimp brain has more neural connections", "correct": false }
+                ],
+                "feedback": {
+                  "correct": "Correct. The limbic system processes threats approximately five times faster than the prefrontal cortex can form a deliberate response. Speed, not intelligence.",
+                  "incorrect": "Not quite. The reactive brain processes information roughly five times faster than the deliberate brain. It's a speed advantage, not an intelligence advantage."
+                }
+              },
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "The Gap Check"
+              },
+              {
+                "type": "process",
+                "steps": [
+                  {
+                    "title": "Pick one training session",
+                    "content": "Your next ride, run, swim, or ski. Any session where you'll face some difficulty."
+                  },
+                  {
+                    "title": "Notice one reactive moment",
+                    "content": "The moment you see your power drop and think \"I'm losing fitness.\" The moment a car passes too close and your grip tightens. The moment you see another rider and your legs want to chase before your brain decides if chasing is smart."
+                  },
+                  {
+                    "title": "Name it",
+                    "content": "Silently, internally: \"That was the chimp.\" That's it. Don't fix it. Don't fight it. Don't judge it. Just see it and name it."
+                  },
+                  {
+                    "title": "Observe the gap",
+                    "content": "By naming the reactive response, you've already created a tiny gap — a sliver of space between impulse and response. You can't widen a gap you don't know exists. This is the seed of everything else in this course."
+                  }
+                ]
+              },
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "Your commitment: In your next training session, catch the chimp firing at least once. See it. Name it. Don't fix it. Prove to yourself that the gap exists."
+              },
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "Your brain has two systems. One reacts, one decides. Every panic on a descent, every blown pacing plan, every moment you quit with more in the tank — that's the chimp getting there before the coach. But the gap between those two systems is real, and it's trainable."
+              },
+              {
+                "type": "callout",
+                "variant": "info",
+                "content": "Next: Why your brain is actually the biggest limiter on your physical performance — and it has nothing to do with how smart you are."
+              }
+            ]
           },
           {
             "title": "Your Brain Is the Limiter",
             "slug": "your-brain-is-the-limiter",
             "description": "Your brain throttles output to protect you. The point where you think you've given everything is a signal, not a wall.",
-            "blocks": []
+            "blocks": [
+              {
+                "type": "text",
+                "content": "Two sessions in the same week. Same course. Same fitness — seven days apart, nothing had changed physiologically. Resting heart rate the same. HRV in the same range."
+              },
+              {
+                "type": "text",
+                "content": "On Tuesday, a 90-minute threshold session on a familiar route. RPE was a 9 from the first effort. Legs screaming. Breathing labored too early. Barely finished. Sat in the driveway afterward convinced something was wrong."
+              },
+              {
+                "type": "text",
+                "content": "On Saturday — four days later — same route, same hills, same climb. Went harder than Tuesday's effort. RPE maybe a 7. Talking on the way up. Same legs. Same lungs. Same engine. What changed? Not the body. The brain."
+              },
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "By the end of this lesson, you will understand why your brain — not your muscles — is the primary limiter on endurance performance, and you'll have a tool to measure exactly how much your brain is inflating perceived effort."
+              },
+              {
+                "type": "quiz",
+                "question": "Retrieval from Lesson 1.1: The \"gap\" between stimulus and response is:",
+                "options": [
+                  { "label": "A", "text": "Fixed at birth and cannot be changed", "correct": false },
+                  { "label": "B", "text": "Trainable — and widening it is the goal of mental skills training", "correct": true },
+                  { "label": "C", "text": "Only relevant during competition", "correct": false },
+                  { "label": "D", "text": "A metaphor with no neuroscientific basis", "correct": false }
+                ],
+                "feedback": {
+                  "correct": "Correct. The gap between the chimp's reaction and your deliberate response is real and trainable. That's the entire foundation of this course.",
+                  "incorrect": "Review Lesson 1.1. The gap is trainable — widening it is the core goal of mental skills training."
+                }
+              },
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "Your brain is the limiter. Not your legs, not your lungs, not your lactate threshold. Your brain shuts you down before you ever reach a physical wall — on purpose, to protect you. And it's conservative. The point where you believe you've given everything? That's a signal from your brain, not a signal from your muscles."
+              },
+              {
+                "type": "tabs",
+                "tabs": [
+                  {
+                    "label": "Central Governor (Noakes)",
+                    "content": "Tim Noakes proposed the Central Governor Theory in the late 1990s. Your brain acts as a governor — like the limiter on an engine. It monitors signals from muscles, cardiovascular system, fuel stores, and temperature, making continuous unconscious calculations. If continuing at the current intensity poses risk, it throttles output — not by making muscles fail, but by making you feel like they're failing. It reduces motor unit recruitment while reserve capacity remains. The sprint finish proves it: runners speed up in the final miles because the brain releases the governor when the finish is close enough."
+                  },
+                  {
+                    "label": "Psychobiological Model (Marcora)",
+                    "content": "Samuele Marcora pushed further: exhaustion during endurance exercise is a conscious decision based on two things — your perception of effort and your motivation to continue. You stop when the effort you perceive reaches the maximum you're willing to tolerate, given how much you care about the goal. Not when your body hits a physiological limit. Perception of effort is cognitive — filtered through self-talk, emotion, attention, beliefs, mood, sleep, and whether you're racing or riding alone on a Tuesday. All of which are trainable."
+                  }
+                ]
+              },
+              {
+                "type": "callout",
+                "variant": "quote",
+                "content": "You cannot improve as an endurance athlete unless you change your relationship with perception of effort.",
+                "attribution": "Dr. Justin Ross"
+              },
+              {
+                "type": "accordion",
+                "panels": [
+                  {
+                    "title": "The Sprint Finish Paradox",
+                    "content": "If fatigue is purely peripheral — a muscle thing — then why do runners speed up at the end of marathons? If you're truly at maximum capacity at mile 24, a kick at mile 26 shouldn't be possible. But it happens. All the time. Elite and amateur alike. The energy was there the whole time. The brain was holding it in reserve."
+                  },
+                  {
+                    "title": "Blanchfield Self-Talk Study (2014)",
+                    "content": "In \"Talking Yourself Out of Exhaustion\" (Medicine & Science in Sports & Exercise), trained cyclists were split into two groups. One received motivational self-talk training — simple phrases like \"you're doing well\" and \"keep pushing.\" The self-talk group had lower perceived exertion AND significantly longer time to exhaustion. Same legs, same fitness. They rode longer and it felt easier. The only difference was the words running through their heads."
+                  },
+                  {
+                    "title": "Perception Is Cognitive, Not Physical",
+                    "content": "Perception of effort is not a direct readout of what's happening in your muscles. It's your brain's interpretation — filtered through self-talk, emotion, attention, your beliefs about yourself, your mood, whether you slept well. The raw physical effort might be a 7. The chimp's emotional markup — fear, frustration, catastrophic thinking — makes it feel like a 9. That markup is trainable."
+                  }
+                ]
+              },
+              {
+                "type": "quiz",
+                "question": "According to Marcora's Psychobiological Model, you stop exercising when:",
+                "options": [
+                  { "label": "A", "text": "Your muscles physically cannot contract anymore", "correct": false },
+                  { "label": "B", "text": "Lactic acid reaches a critical threshold", "correct": false },
+                  { "label": "C", "text": "Perceived effort reaches the maximum you're willing to tolerate given your motivation", "correct": true },
+                  { "label": "D", "text": "Your heart rate exceeds your maximum", "correct": false }
+                ],
+                "feedback": {
+                  "correct": "Correct. Marcora's model: you stop when perceived effort reaches the maximum you'll tolerate, given how much you care about the goal. It's a decision, not a failure.",
+                  "incorrect": "Review the Psychobiological Model. Marcora says you stop when perceived effort reaches the maximum you're willing to tolerate, given your motivation. A decision, not a physical limit."
+                }
+              },
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "The RPE Journal"
+              },
+              {
+                "type": "process",
+                "steps": [
+                  {
+                    "title": "Pick three hard sessions",
+                    "content": "Intervals, a tempo ride, a long run with a hard finish — anything that qualifies as genuinely difficult for you."
+                  },
+                  {
+                    "title": "Rate in the moment",
+                    "content": "At the single hardest moment of the session — the moment where you most wanted to quit — rate your RPE on a 1-10 scale. 10 is \"I literally cannot continue.\" Note the number mentally or tap it into your phone."
+                  },
+                  {
+                    "title": "Rate again 10 minutes later",
+                    "content": "After you've caught your breath, had some water, let your heart rate come back down — rate that same hardest moment again. Same scale, same question."
+                  },
+                  {
+                    "title": "Compare the two numbers",
+                    "content": "For almost everyone, the retrospective rating is lower — sometimes by 1-3 points. A moment that felt like a 9 becomes a 7. That gap is your brain's tax. The chimp's emotional markup layered on top of the actual physical sensation."
+                  }
+                ]
+              },
+              {
+                "type": "callout",
+                "variant": "info",
+                "content": "Most athletes find a 1-3 point gap between in-the-moment RPE and retrospective RPE. Once you can see it, you can account for it: \"The chimp says 9. It's probably a 7. I can do a 7.\""
+              },
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "Your commitment: Do the RPE Journal for your next three hard sessions. Write down both numbers each time. Notice the pattern. Your brain is the limiter — and now you have the receipts."
+              },
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "The point where you think you've given everything is a signal, not a wall. Perception of effort is cognitive — which means it's trainable. Your RPE Journal is going to show you exactly how much markup your brain is adding."
+              },
+              {
+                "type": "callout",
+                "variant": "info",
+                "content": "Next: What happens when your brain is too amped up — or not amped up enough — and why the right level of activation is different for every athlete."
+              }
+            ]
           },
           {
             "title": "The Arousal Dial",
             "slug": "the-arousal-dial",
             "description": "Your best performance lives in a specific zone on the arousal dial — and that zone is different for every athlete.",
-            "blocks": []
+            "blocks": [
+              {
+                "type": "text",
+                "content": "Jason was a monster in training. Metronomic. Hit every number, every time. His training data was legitimately impressive. If you looked at his log, you'd think he was going to podium at every race."
+              },
+              {
+                "type": "text",
+                "content": "But races? Jason came apart. He'd show up vibrating — heart rate in zone 3 just standing in the corral, jaw clenched, shoulders by his ears. The gun would go off and he'd sprint into the first mile of a six-hour race. He'd blow up within 30-45 minutes. Every. Single. Time. Jason was too aroused."
+              },
+              {
+                "type": "text",
+                "content": "Sarah had the opposite problem. Calm. Too calm. She'd ease off the line like it was a recovery day, let gaps open because she felt no urgency, and realize 40 minutes in that the front group was a minute up the road. Sarah was under-aroused. Same sport. Opposite problems. Both mental."
+              },
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "By the end of this lesson, you will understand the arousal-performance curve, identify where your optimal zone sits, and know whether you tend toward over- or under-arousal on race day."
+              },
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "Your best performance lives in a specific zone on the arousal dial — a volume knob from 1 to 10. At 1, you're asleep. At 10, full panic. Your optimal zone is somewhere in the middle, and it's different for every athlete, every sport, and every situation within a sport."
+              },
+              {
+                "type": "image",
+                "variant": "figure",
+                "src": "img/deliver/yerkes-dodson.svg",
+                "alt": "Yerkes-Dodson inverted U curve showing the relationship between arousal and performance",
+                "caption": "The Yerkes-Dodson Law: performance increases with arousal up to an optimal point, then drops off sharply. Your job is to find where your peak sits."
+              },
+              {
+                "type": "accordion",
+                "panels": [
+                  {
+                    "title": "Yerkes-Dodson Law (1908)",
+                    "content": "The relationship between arousal and performance is an inverted U. Performance increases as arousal increases, up to a point, then drops off fast. Published in 1908, replicated and refined ever since. Too little activation: unfocused, slow to react, can't access top gear. Too much: tense, burning matches, impulsive decisions, can't think clearly."
+                  },
+                  {
+                    "title": "Sympathetic vs. Parasympathetic",
+                    "content": "Your autonomic nervous system has two branches. The sympathetic (accelerator) increases heart rate, dumps adrenaline, tenses muscles, and narrows attention. The parasympathetic (brake) slows heart rate, relaxes muscles, deepens breathing, and broadens attention. The physical response to excitement and anxiety are virtually identical — same heart rate, same sweating, same tension. The only difference is how you interpret it."
+                  },
+                  {
+                    "title": "IZOF — Individual Zones of Optimal Functioning (Hanin)",
+                    "content": "Yuri Hanin's IZOF model refined Yerkes-Dodson by emphasizing that optimal arousal zones are individual. There is no universal 'right' level. Some athletes perform best at a 4. Others need a 7. Your zone is determined by your personality, your sport, and the specific demands of the moment. The only way to find it is to map your own data."
+                  },
+                  {
+                    "title": "Task Complexity Matters",
+                    "content": "Fine motor tasks — navigating a technical descent, threading through a pack — have a narrower optimal zone, sitting lower on the arousal scale. You need precision and relaxed hands. Gross motor, high-output tasks — sprinting, surging — tolerate more adrenaline and sit higher. Endurance tasks generally need moderate-to-low arousal: alert and focused but not amped. Calm intensity, not frantic energy."
+                  }
+                ]
+              },
+              {
+                "type": "quiz",
+                "question": "Peak performance occurs at:",
+                "options": [
+                  { "label": "A", "text": "Maximum arousal — the more fired up, the better", "correct": false },
+                  { "label": "B", "text": "Minimum arousal — stay as calm as possible", "correct": false },
+                  { "label": "C", "text": "An individual optimal zone that varies by athlete and task", "correct": true },
+                  { "label": "D", "text": "A fixed arousal level that is the same for all athletes", "correct": false }
+                ],
+                "feedback": {
+                  "correct": "Correct. Hanin's IZOF model shows that optimal arousal is individual. Your zone depends on you, your sport, and the specific task.",
+                  "incorrect": "Review the Yerkes-Dodson curve and Hanin's IZOF model. Peak performance occurs at an individual optimal zone — not maximum, not minimum, and not the same for everyone."
+                }
+              },
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "Know Your Zone"
+              },
+              {
+                "type": "process",
+                "steps": [
+                  {
+                    "title": "Map your best performances",
+                    "content": "Think back to your last three best performances — races, key workouts, breakthroughs. For each, rate your arousal before and during the effort on a 1-10 scale. Be honest about what you actually felt, not what you think the 'right' answer should be."
+                  },
+                  {
+                    "title": "Map your worst performances",
+                    "content": "Think about your last three worst performances — races where you underperformed relative to fitness. Rate those on the same 1-10 scale."
+                  },
+                  {
+                    "title": "Find your zone",
+                    "content": "Where do your best performances cluster? For most endurance athletes, it's between 4 and 6. Enough edge to be sharp, not so much that you're brittle. That cluster is your optimal arousal zone."
+                  },
+                  {
+                    "title": "Identify your pattern",
+                    "content": "If your worst performances cluster higher (7-9), you're a Jason — chronically over-aroused on race day. If they cluster lower (2-4), you're a Sarah — under-activated. Write these numbers down. You need to know which direction to move the dial."
+                  }
+                ]
+              },
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "Your commitment: Map your last three best and three worst performances to arousal levels this week. Write them down. Know your zone before we start building tools to move the dial."
+              },
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "Performance isn't about maximum intensity. It's about optimal intensity — and optimal is personal. Your job is to figure out where you sit on the curve when you're at your best, and then learn to dial yourself there on demand."
+              },
+              {
+                "type": "callout",
+                "variant": "info",
+                "content": "Next: The single most effective tool for moving the dial down when it's too high. Free, fifteen seconds, zero equipment. Breathing."
+              }
+            ]
           },
           {
             "title": "The 6-2-7",
             "slug": "the-6-2-7",
             "description": "Diaphragmatic breathing is the fastest bridge from the reactive brain to the deliberate brain.",
-            "blocks": []
+            "blocks": [
+              {
+                "type": "text",
+                "content": "Mile 80 of a 130-mile gravel race. Southern Kansas. Ninety-five degrees. The road is crushed limestone that's been baking in the sun for eight hours. Everything beige — the road, the fields, the sky."
+              },
+              {
+                "type": "text",
+                "content": "A group of six, together since mile 40, sharing work in silent cooperation. Then the road tilts up. Not a big climb — maybe 8 minutes at 6%. On fresh legs, forgettable. At mile 80, with 50 miles to go, it's a selection point. The group fractures. Two guys go. Two guys sit up. The chimp is screaming: \"They're getting away. GO. NOW.\""
+              },
+              {
+                "type": "text",
+                "content": "I closed my eyes for one stride. Breathed in through my nose for six. Held for two. Out through my mouth for seven. One breath. Fifteen seconds. My heart rate dropped five beats. My grip loosened. The chimp's screaming faded and the coach came through: \"Hold your tempo. They went too hard. Let them come back to you.\" Which they did. By the top, the two who attacked were cooked. Fifteen seconds changed the outcome."
+              },
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "By the end of this lesson, you will know the 6-2-7 breathing protocol, understand why each number matters, and have a plan to practice it until it becomes automatic."
+              },
+              {
+                "type": "quiz",
+                "question": "Retrieval: Your personal optimal arousal zone is:",
+                "options": [
+                  { "label": "A", "text": "Always a 10 for competition", "correct": false },
+                  { "label": "B", "text": "The same for all endurance athletes", "correct": false },
+                  { "label": "C", "text": "Individual — found by mapping your best and worst performances", "correct": true },
+                  { "label": "D", "text": "Irrelevant to race-day performance", "correct": false }
+                ],
+                "feedback": {
+                  "correct": "Correct. Your zone is personal. The Know Your Zone exercise maps your actual data to find where your best performances cluster.",
+                  "incorrect": "Review Lesson 1.3. Your optimal arousal zone is individual — discovered by mapping your own best and worst performances to arousal levels."
+                }
+              },
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "Diaphragmatic breathing is the fastest bridge between your reactive brain and your deliberate brain. It's the only autonomic function you can consciously control. Change how you breathe, and heart rate drops, cortisol drops, muscle tension releases, mental clarity returns."
+              },
+              {
+                "type": "text",
+                "content": "The formula is 6-2-7. Inhale for 6 seconds. Hold for 2 seconds. Exhale for 7 seconds. Fifteen seconds per cycle. Every number matters: the exhale is longer than the inhale because your heart rate actually decreases during expiration — parasympathetic activation. The 2-second hold creates a reset point between the sympathetic phase (inhale) and parasympathetic phase (exhale). And the counting is non-negotiable: it forces the breath to be long enough to trigger the vagal response AND it occupies the chimp with a cognitive task. Your chimp can't catastrophize and count to seven at the same time."
+              },
+              {
+                "type": "accordion",
+                "panels": [
+                  {
+                    "title": "The Vagus Nerve",
+                    "content": "The vagus nerve is the longest cranial nerve in your body, running from brainstem to gut. It's the primary conduit of the parasympathetic nervous system. When you take a long, slow diaphragmatic breath, you mechanically stimulate the vagus nerve — the expansion of your diaphragm activates stretch receptors that send a direct signal to your brain: slow down. Measurable on an ECG in real time. Slow-paced breathing at approximately 6 breaths per minute maximizes HRV (Lehrer & Gevirtz, 2014)."
+                  },
+                  {
+                    "title": "Diaphragmatic vs. Shallow Breathing",
+                    "content": "Diaphragmatic breathing — deep belly breathing where your diaphragm pulls down and your belly expands — activates the parasympathetic brake. Shallow chest breathing — what happens automatically under stress — maintains sympathetic dominance. The test: one hand on chest, one on belly. If your chest hand is heaving, you're stress-breathing. Redirect the air into your belly."
+                  },
+                  {
+                    "title": "Dual-Task Counting",
+                    "content": "When you're genuinely aroused, the chimp does NOT want to breathe slowly. If you just tell yourself \"breathe deeply\" in a moment of panic, you'll cheat — one slightly deeper breath for two seconds. Counting prevents the hijack. It forces the breath to be long enough to work AND occupies the reactive brain with a cognitive task. Attentional displacement: busy work for the chimp so the coach can take the wheel."
+                  }
+                ]
+              },
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "The 6-2-7 Protocol"
+              },
+              {
+                "type": "process",
+                "steps": [
+                  {
+                    "title": "Inhale for 6",
+                    "content": "Breathe in through your nose for a slow count of 6. Feel your belly expand — not your chest. One-Mississippi pace. Push the air down into your belly like inflating a balloon behind your navel."
+                  },
+                  {
+                    "title": "Hold for 2",
+                    "content": "Pause. Don't tense up. The air is in your lungs — let it sit for two beats. This creates the reset point between sympathetic and parasympathetic phases."
+                  },
+                  {
+                    "title": "Exhale for 7",
+                    "content": "Out through your mouth, pursed lips, slow count of 7. Let the air drain out steadily and completely. The exhale is the key — longer than the inhale, activating the parasympathetic brake. By count 7, your lungs should feel empty."
+                  },
+                  {
+                    "title": "Repeat 3-5 cycles",
+                    "content": "That's 45-75 seconds. Practice daily for a week in low-stress settings. Then test before a hard training session. Then deploy in competition. It only works if you've drilled it — an untrained 6-2-7 under genuine race stress is just one awkward deep breath followed by panic."
+                  }
+                ]
+              },
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "Your commitment: Practice the 6-2-7 for five minutes daily this week — sitting, lying in bed, in your car. Then use it before your next hard session. Build the reflex before you need it."
+              },
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "The 6-2-7 is the fastest bridge between your reactive brain and your deliberate brain. Count it. The counting occupies the chimp while the breathing resets your physiology. It's the most bang-for-your-buck tool in this entire course."
+              },
+              {
+                "type": "callout",
+                "variant": "info",
+                "content": "Next: Where you point your attention. Your attention is a spotlight, and most athletes don't realize they're the ones holding it."
+              }
+            ]
           },
           {
             "title": "Attention — The Spotlight You Control",
             "slug": "attention-the-spotlight-you-control",
             "description": "Your attention is a spotlight — broad or narrow, internal or external. You control where it points.",
-            "blocks": []
+            "blocks": [
+              {
+                "type": "text",
+                "content": "A dull ache shows up in your knee at mile 40. Not sharp pain — just a nagging presence. Your attention locks on like a searchlight finding an escaped prisoner. You try to think about something else. It comes back. The more you focus on it, the worse it gets. A slight ache becomes evidence of injury. Everything else — the beautiful road, your solid nutrition, your objectively good day — disappears."
+              },
+              {
+                "type": "text",
+                "content": "Now think about a different day. One of those magic sessions. You're aware of everything without monitoring anything specific. You sense grade changes through your feet before you see the road tilt. You notice a hawk riding a thermal and appreciate it without losing your pace. An hour goes by and you forgot to eat because you were absorbed in the experience of moving."
+              },
+              {
+                "type": "text",
+                "content": "Same spotlight. Same brain. Totally different mode. The difference wasn't fitness. It was attention."
+              },
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "By the end of this lesson, you will understand the four quadrants of attention, recognize which mode you default to under stress, and have a drill to build attentional flexibility."
+              },
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "Your attention is a spotlight — broad or narrow, internal or external. Where you point it directly determines your experience and your performance. Right now, most of you are letting the chimp aim the spotlight. Which means it's permanently fixed on whatever's going wrong."
+              },
+              {
+                "type": "image",
+                "variant": "figure",
+                "src": "img/deliver/attention-matrix.svg",
+                "alt": "Nideffer's 2x2 attention matrix: broad/narrow crossed with internal/external",
+                "caption": "The four quadrants of attention. Each is useful. The skill is moving between them on demand."
+              },
+              {
+                "type": "flashcard",
+                "cards": [
+                  {
+                    "front": "Broad-External",
+                    "back": "Scanning the race field, reading terrain, assessing competitors, judging wind. Tactical awareness. You need it at race starts, in groups, on technical courses."
+                  },
+                  {
+                    "front": "Narrow-Internal",
+                    "back": "Zeroing in on a specific body sensation — breathing rhythm, heart rate, a pain point. Monitoring focus. Useful for pacing at high intensity, but the default trap for most athletes under stress."
+                  },
+                  {
+                    "front": "Narrow-External",
+                    "back": "Focusing on a specific technical task — your line through a corner, your pedal stroke, the person in front of you. Execution focus. Precision when it matters."
+                  },
+                  {
+                    "front": "Broad-Internal",
+                    "back": "Monitoring overall body state without fixating. General check-in: How do I feel? Am I hydrating? Is my effort sustainable? Self-management awareness."
+                  }
+                ]
+              },
+              {
+                "type": "accordion",
+                "panels": [
+                  {
+                    "title": "Nideffer's Attention Model (1976)",
+                    "content": "Robert Nideffer proposed two dimensions of attention: width (broad vs. narrow) and direction (internal vs. external). Cross them and you get four quadrants. Elite endurance athletes don't just focus harder — they shift between quadrants fluidly and on demand. At high intensity, they associate (narrow-internal for pacing data). At moderate intensity, they dissociate (broad-external to conserve mental energy). The key word is 'actively' — they choose where the spotlight goes."
+                  },
+                  {
+                    "title": "The Stuck Spotlight",
+                    "content": "Attentional narrowing is a stress response. The chimp grabs the spotlight and won't let go — fixated on pain, obsessively checking the watch, locked onto a competitor. It creates a vicious cycle: the more you focus on what's wrong, the more threatening it seems, which makes the chimp grip tighter. The only way out is to deliberately redirect — physically move the spotlight to a different quadrant. But only if you've practiced."
+                  },
+                  {
+                    "title": "Attentional Flexibility",
+                    "content": "The MSPE protocol (Kaufman, Glass & Arnkoff, 2009) tested mindful attention training on long-distance runners. Results: improved focus, better management of intrusive negative thoughts, increased sport confidence. A 2011 follow-up found improvements held at 12 months. The goal isn't one 'best' quadrant. It's the ability to go wherever you need to be, whenever you need to be there."
+                  }
+                ]
+              },
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "The Spotlight Drill"
+              },
+              {
+                "type": "process",
+                "steps": [
+                  {
+                    "title": "Body Scan (Narrow-Internal) — 1 minute",
+                    "content": "Every 10 minutes during a long session (90+ minutes), scan head to toe. Jaw clenched? Shoulders tensed? Hands in a death grip? Quads fresh or loaded? Describe what you find in neutral language: \"My left hip flexor is tight. My hands are relaxed.\" Don't fix. Don't judge. Just observe."
+                  },
+                  {
+                    "title": "Surroundings (Broad-External) — 1 minute",
+                    "content": "Lift your head. Widen your gaze. The whole panorama — sky, trees, sounds, temperature on your skin. Let your focus go soft. Not fixed on any one thing, but aware of everything. This is floodlight mode."
+                  },
+                  {
+                    "title": "Technique (Narrow-External) — 1 minute",
+                    "content": "Pick one technical element: pedal stroke, foot strike, pole plant. Focus exclusively on the mechanics for one minute. Don't evaluate good or bad — just observe. Watch yourself move from inside your body."
+                  }
+                ]
+              },
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "Your commitment: Run the Spotlight Drill on your next long session. Rotate through all three modes every 10 minutes. Notice which mode feels easy, which feels hard, and which one you can't sustain. The hardest mode is the one the chimp is keeping you from — practice it the most."
+              },
+              {
+                "type": "callout",
+                "variant": "highlight",
+                "content": "Attention isn't something that happens to you. It's something you aim."
+              },
+              {
+                "type": "callout",
+                "variant": "info",
+                "content": "That wraps Module 1: The Two Brains. You now have the operating manual — the two systems, the brain as limiter, the arousal dial, the 6-2-7, and attention as a controllable spotlight. Re-rate yourself 1-10: How well do you manage your mental game during hard efforts? Compare it to your rating from Lesson 1.1. The number may not have changed yet — but your awareness has. Next: Module 2, The Stories You Tell Yourself."
+              }
+            ]
           },
           {
             "title": "Module 1 Quiz",
             "slug": "module-1-quiz",
             "description": "Test your understanding of the two-brain system, arousal, breathing, and attention.",
-            "blocks": []
+            "blocks": [
+              {
+                "type": "text",
+                "content": "Seven questions covering the core concepts from Module 1. No tricks — this is retrieval practice, which is one of the most effective ways to lock knowledge into long-term memory."
+              },
+              {
+                "type": "quiz",
+                "question": "1. What does \"the gap\" refer to in the two-brain model?",
+                "options": [
+                  { "label": "A", "text": "The gap between your fitness and your competitors' fitness", "correct": false },
+                  { "label": "B", "text": "The space between stimulus and response — where the chimp fires and the coach can intervene", "correct": true },
+                  { "label": "C", "text": "The gap between your training load and your recovery", "correct": false },
+                  { "label": "D", "text": "The distance to the rider ahead of you", "correct": false }
+                ],
+                "feedback": {
+                  "correct": "Correct. The gap is the trainable space between the chimp's reactive impulse and your deliberate response. Widening it is the foundation of the entire course.",
+                  "incorrect": "Review Lesson 1.1. The gap is the space between stimulus and response — where the reactive brain fires and the deliberate brain can intervene."
+                }
+              },
+              {
+                "type": "quiz",
+                "question": "2. The sprint finish paradox — runners speeding up in the final miles despite apparent exhaustion — supports which theory?",
+                "options": [
+                  { "label": "A", "text": "The peripheral fatigue model (muscles hit a physical wall)", "correct": false },
+                  { "label": "B", "text": "The lactic acid accumulation theory", "correct": false },
+                  { "label": "C", "text": "The Central Governor Theory (the brain was holding reserve capacity)", "correct": true },
+                  { "label": "D", "text": "The glycogen depletion model", "correct": false }
+                ],
+                "feedback": {
+                  "correct": "Correct. Noakes argued that if fatigue were purely peripheral, the sprint finish shouldn't be possible. The energy was there the whole time — the brain was holding it in reserve.",
+                  "incorrect": "Review Lesson 1.2. The sprint finish paradox is central to Noakes' Central Governor Theory — if muscles were truly at their limit, a final kick would be impossible."
+                }
+              },
+              {
+                "type": "quiz",
+                "question": "3. Which of the following shifts arousal upward (toward the sympathetic/fight-or-flight side)?",
+                "options": [
+                  { "label": "A", "text": "Slow diaphragmatic breathing", "correct": false },
+                  { "label": "B", "text": "Race start adrenaline, crowd energy, and competitive pressure", "correct": true },
+                  { "label": "C", "text": "Broad-external attention (noticing surroundings)", "correct": false },
+                  { "label": "D", "text": "Extending the exhale longer than the inhale", "correct": false }
+                ],
+                "feedback": {
+                  "correct": "Correct. Race starts, crowds, competition, and perceived threats all activate the sympathetic nervous system, pushing arousal higher on the dial.",
+                  "incorrect": "Review Lesson 1.3. Slow breathing and extended exhales activate the parasympathetic brake (arousal down). Race starts, crowds, and competition activate the sympathetic system (arousal up)."
+                }
+              },
+              {
+                "type": "quiz",
+                "question": "4. The 6-2-7 protocol: Inhale for ___, hold for ___, exhale for ___.",
+                "options": [
+                  { "label": "A", "text": "7 seconds, 2 seconds, 6 seconds", "correct": false },
+                  { "label": "B", "text": "6 seconds, 2 seconds, 7 seconds", "correct": true },
+                  { "label": "C", "text": "4 seconds, 4 seconds, 4 seconds", "correct": false },
+                  { "label": "D", "text": "6 seconds, 7 seconds, 2 seconds", "correct": false }
+                ],
+                "feedback": {
+                  "correct": "Correct. Inhale 6, hold 2, exhale 7. The exhale is longer than the inhale because expiration activates the parasympathetic brake.",
+                  "incorrect": "Review Lesson 1.4. The protocol is 6-2-7: inhale for 6, hold for 2, exhale for 7. The longer exhale is the key — it tips the balance toward parasympathetic activation."
+                }
+              },
+              {
+                "type": "quiz",
+                "question": "5. An athlete scanning the race field, reading terrain ahead, and assessing competitor positions is using which attention mode?",
+                "options": [
+                  { "label": "A", "text": "Narrow-Internal", "correct": false },
+                  { "label": "B", "text": "Broad-Internal", "correct": false },
+                  { "label": "C", "text": "Broad-External", "correct": true },
+                  { "label": "D", "text": "Narrow-External", "correct": false }
+                ],
+                "feedback": {
+                  "correct": "Correct. Broad-External is tactical awareness — scanning the environment, reading terrain, assessing the race situation.",
+                  "incorrect": "Review Lesson 1.5. Scanning the field and reading terrain is Broad-External attention — wide focus, directed outward. Tactical awareness mode."
+                }
+              },
+              {
+                "type": "quiz",
+                "question": "6. In-the-moment RPE is typically ___ compared to retrospective RPE rated 10 minutes later.",
+                "options": [
+                  { "label": "A", "text": "Lower — effort feels easier in the moment", "correct": false },
+                  { "label": "B", "text": "The same — perception doesn't change", "correct": false },
+                  { "label": "C", "text": "Higher — the chimp adds an emotional markup of 1-3 points", "correct": true },
+                  { "label": "D", "text": "Unpredictable — there's no consistent pattern", "correct": false }
+                ],
+                "feedback": {
+                  "correct": "Correct. The chimp layers fear, frustration, and catastrophic thinking on top of the raw physical sensation. A 7 becomes a 9. That gap is your brain's tax.",
+                  "incorrect": "Review Lesson 1.2. In-the-moment RPE is consistently higher than retrospective RPE. The chimp adds a 1-3 point emotional markup — that's the brain's tax on perceived effort."
+                }
+              },
+              {
+                "type": "quiz",
+                "question": "7. Your RPE feels like a 9 mid-race. Based on the RPE Journal concept, the actual physical effort is probably a:",
+                "options": [
+                  { "label": "A", "text": "9 — trust the feeling", "correct": false },
+                  { "label": "B", "text": "10 — it's actually worse than it feels", "correct": false },
+                  { "label": "C", "text": "7 — the chimp is adding a 1-3 point surcharge", "correct": true },
+                  { "label": "D", "text": "5 — the brain always doubles the real effort", "correct": false }
+                ],
+                "feedback": {
+                  "correct": "Correct. \"The chimp says 9. It's probably a 7. I can do a 7.\" That reframe — grounded in your own RPE Journal data — is the practical application of this lesson.",
+                  "incorrect": "Review Lesson 1.2. The RPE Journal typically reveals a 1-3 point gap. If it feels like a 9, it's probably a 7. Knowing this lets you reframe in the moment."
+                }
+              }
+            ]
           }
         ]
       },
