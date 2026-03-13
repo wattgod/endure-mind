@@ -60,28 +60,52 @@
 
 ---
 
-## Design System: Deliver Theme
+## Design System: Clean Pro
 
-The XC ski course uses Røkt (neo-brutalist, Norwegian). Deliver needs its own visual identity while sharing the platform architecture.
+Minimal, content-first. The UI disappears — the Stoic Coach voice in the text is the personality. Inspired by Stripe docs, Linear, Notion learning content.
 
-### Proposed: Stoic Theme
+### Design Principles
+- **Content is the personality.** Zero decorative elements. No gradients, no ornamental icons, no colored section backgrounds.
+- **One accent color.** Turquoise `#4ECDC4` (GG light-teal) used sparingly — interactive states only.
+- **Typography does the work.** Inter at 3 weights. Hierarchy through size and weight, not color.
+- **Generous whitespace.** 200px side margins on content, 36px vertical gaps between blocks.
 
-| Token | Røkt (XC Ski) | Stoic (Deliver) |
-|-------|---------------|-----------------|
-| `--gl-primary` | `#0e0e0c` Expedition Black | `#1a1a2e` Deep Navy |
-| `--gl-accent` | `#d08a70` Smoked Salmon | Gradient midpoint `#50B5E7` (Endure Labs teal-blue) |
-| `--gl-gold` | `#c49a5a` Birch Gold | `#c49a5a` (keep — warm accent) |
-| `--gl-paper` | `#f8f6f2` Warm Snow | `#f5f7fa` Cool Cloud |
-| `--gl-paper-warm` | `#f0ece6` Parchment | `#eef1f5` Slate Mist |
-| `--gl-muted` | `#8a8878` Lichen | `#7a8599` Steel |
-| `--gl-font-data` | Sometype Mono | Sometype Mono (keep) |
-| `--gl-font-editorial` | Literata | Literata (keep) |
-| `--gl-font-ui` | Inter | Inter (keep) |
-| Border radius | 0 (neo-brutalist) | TBD — may soften to 2-4px for sport psych warmth |
+### Token Mapping
 
-### Voice Adaptation
+| Token | Røkt (XC Ski) | Clean Pro (Deliver) |
+|-------|---------------|---------------------|
+| `--gl-primary` | `#0e0e0c` | `#1a1a1a` Near-black |
+| `--gl-accent` | `#d08a70` | `#4ECDC4` Turquoise (GG light-teal) |
+| `--gl-bg` | `#f8f6f2` | `#ffffff` White |
+| `--gl-bg-alt` | `#f0ece6` | `#fafafa` Off-white |
+| `--gl-text` | — | `#1a1a1a` Headlines |
+| `--gl-text-body` | — | `#4a4a4a` Body |
+| `--gl-text-muted` | — | `#8a8a8a` Metadata/labels |
+| `--gl-border` | — | `#e5e5e5` Hairlines |
+| `--gl-font-primary` | Literata + Sometype Mono | Inter (400, 600, 700) |
+| Border radius | 0 | 4px |
+
+### Type Scale
+- Page title: 40px / 700 / -0.5px tracking
+- Section label: 11px / 600 / uppercase / 1.5px tracking / `#8a8a8a`
+- Body: 16px / 400 / 1.8 line-height
+- Note/callout: 14px / 400 / 1.7 line-height
+- Pullquote: 24px / 600 / -0.3px tracking / centered
+- Quiz label: 11px / 600 / uppercase / `#4ECDC4`
+
+### Accent Usage (exhaustive)
+The turquoise `#4ECDC4` appears in exactly these places:
+1. Module progress bar (active segment)
+2. Learning objective left-border accent (3px)
+3. Quiz selected-answer border + letter
+4. Lesson progress dots (active)
+5. "Knowledge Check" label text
+
+Everything else is grayscale.
+
+### Voice
 - XC Ski: "Knowledgeable peer"
-- Deliver: "The Stoic Coach" — terse, direct, earned authority, dry wit
+- Deliver: "The Stoic Coach" — terse, direct, earned authority, dry wit. The voice carries all the brand personality the UI deliberately omits.
 
 ---
 
