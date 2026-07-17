@@ -15,7 +15,7 @@
 
 You just bought Deliver. Good.
 
-Here's what you're getting: 6 modules, 30 lessons, 8 guided audio exercises, and a toolkit of downloadable worksheets. Total runtime is about 5 hours of content — but the value isn't in the watching. It's in the doing.
+Here's what you're getting: 6 modules, 32 lessons, guided audio exercises, and a toolkit of downloadable worksheets. Total runtime is about 5 hours of content — but the value isn't in the watching. It's in the doing.
 
 Every lesson ends with a named, repeatable tool. Not theory. A tool. Something you practice in your next training session, not something you nod along to and forget by Thursday.
 
@@ -192,7 +192,7 @@ Keep going.
 
 ---
 
-You've completed Deliver. All 6 modules. All 30 lessons. All the tools.
+You've completed Deliver. All 6 modules. All 32 lessons. All the tools.
 
 The honest truth: completing the course is the easy part. The hard part is what you do starting tomorrow.
 

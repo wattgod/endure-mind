@@ -86,7 +86,7 @@ Synthesized from 4 sport psychologists, 15+ hours of academic content, and 6 yea
 **Headline:** Learn It. Practice It. Absorb It.
 
 **Course** — Deep learning
-6 modules, ~30 lessons, video + worksheets + guided exercises. Go deep on the science and the practice.
+6 modules, 32 lessons, worksheets + guided exercises. Go deep on the science and the practice.
 
 **App** — Daily training
 5 minutes/day. Streaks, spaced repetition, accountability circles. Your mental training plan, built into your routine.

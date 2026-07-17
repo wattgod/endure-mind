@@ -4,7 +4,7 @@
 
 Six modules. Each built on one first principle stated in one sentence.
 Each module contains 4-6 lessons (~10 min each). Each lesson ends with a named, repeatable tool.
-Total course: ~30 lessons, ~5 hours of content.
+Total course: 32 lessons plus 6 module quizzes, ~5 hours of content.
 
 The modules are **progressive** — each builds on concepts from the previous one.
 The final module (Race Day) is the synthesis: assembling all tools into a competition protocol.
