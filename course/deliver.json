@@ -494,6 +494,12 @@
                 ]
               },
               {
+                "type": "audio",
+                "title": "Progressive Muscle Relaxation",
+                "file": "audio/deliver/progressive-muscle-relaxation.mp3",
+                "duration": "15:00"
+              },
+              {
                 "type": "callout",
                 "variant": "info",
                 "content": "Your commitment: Map your last three best and three worst performances to arousal levels this week. Write them down. Know your zone before we start building tools to move the dial."
@@ -647,6 +653,12 @@
                     "content": "That's 45-75 seconds. Practice daily for a week in low-stress settings. Then test before a hard training session. Then deploy in competition. It only works if you've drilled it — an untrained 6-2-7 under genuine race stress is just one awkward deep breath followed by panic."
                   }
                 ]
+              },
+              {
+                "type": "audio",
+                "title": "6-2-7 Guided Breathing",
+                "file": "audio/deliver/six-two-seven-guided.mp3",
+                "duration": "5:00"
               },
               {
                 "type": "scenario",
